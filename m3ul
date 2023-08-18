@@ -35,8 +35,8 @@ https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-12 tvg-logo="https://lc.cx/hhOju4" group-title="ECUADOR", Asomavision | SD
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
-#EXTINF:-13 tvg-logo="https://lc.cx/wcjEj" group-title="COSTA RICA",CANAL 4 | SD
-https://5cd577a3dd8ec.streamlock.net/CAMARAS/live5/chunklist_w1976056133.m3u8
+#EXTINF:-13 tvg-logo="https://www.gamavision.com.ec/wp-content/uploads/2020/04/logo-gama.png" group-title="ECUADOR",GAMAVISION | SD
+https://live-ak.vimeocdn.com/exp=1692391428~acl=%2Fc1789d72-7ec4-42ae-9e73-774d80219818%2F%2A~hmac=7ee7d38b2b9a01d75a877543c783ef08edef00575cdf71a74f4337a67ef37826/c1789d72-7ec4-42ae-9e73-774d80219818/chunklist_b728000.m3u8
 
 #EXTINF:-14 tvg-logo="https://lc.cx/AJZkjB" group-title="ARGENTINA", Canal 7 jujuyuy | SD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -71,7 +71,7 @@ https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
 #EXTINF:-24 tvg-logo="https://is.gd/c0sqqp" group-title="ECUADOR", Ecuavisa 2 | SD
 https://youvideostreaming.club/hls/ecutv1.m3u8
 
-#EXTINF:-25 tvg-logo="https://is.gd/sZl71c" group-title="ECUADOR",Rts | SD
+#EXTINF:-25 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",Rts | SD
 https://youvideostreaming.club/hls/ecutv2.m3u8
 
 #EXTINF:-26 tvg-logo="https://redtv.com.uy/wp-content/uploads/2019/10/logoheader2.png" ,La Red Tv
@@ -95,7 +95,7 @@ https://2-fss-1.streamhoster.com/pl_122/205510-3150738-1/playlist.m3u8
 #EXTINF:-32 tvg-logo="https://www.elnuevodia.com/resizer/jcjrG7WrqrRHRvwwDcwX4LoVEt8=/829x0/filters:quality(75):format(jpeg):focal(781x419:791x409)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/5GAYARXGYVDPRMG4Q3MOXQGOW4.jpg" group-title="PUERTO RICO", Mega tv | HD
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 
-#EXTINF:-33 tvg-logo="https://e7.pngegg.com/pngimages/587/306/png-clipart-bein-sports-1-bein-sports-2-streaming-media-bein-purple-television.png" group-title="DEPORTES", Bein Sport | HD
+#EXTINF:-33 tvg-logo="https://lc.cx/Yt2ocL" group-title="DEPORTES", Bein Sport | HD
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-34 tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="ECUADOR", PURUWA TV  | SD
@@ -362,8 +362,8 @@ https://youvideostreaming.club/hls/ecutv3.m3u8
 #EXTINF:-121 group-title="RELIGIÓN" , EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-122, Luna Tv Canal 53
-https://streaming.ath.cx:1936/lunatv/lunatv/chunklist_w202941629.m3u8
+#EXTINF:-122 tvg-logo="https://blixtv.com/wp-content/uploads/2023/07/oromartv.webp" group-title="ECUADOR", OROMAR TV | SD
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-123 tvg-logo="https://i.imgur.com/z7cueNf.png" group-title="MUSICA", Top Latino | SD
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w2112704837.m3u8
@@ -710,8 +710,14 @@ http://stream.zeno.fm/64nxbrzhsuhvv
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e305e10aa5db2b619987be7e4d298f9a.webp" group-title="PERU" , FUEGO TV
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
 
+#EXTINF:-237, Luna Tv Canal 53
+https://streaming.ath.cx:1936/lunatv/lunatv/chunklist_w202941629.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="CHILE" , INT Hispantv
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
+
+#EXTINF:-13 tvg-logo="https://lc.cx/GuREUN" group-title="COSTA RICA",CANAL 4 | SD
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live5/chunklist_w1976056133.m3u8
 
 #EXTINF:-1 group-title="CHILE" , VIVA MOVIL 2 TV
 https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
