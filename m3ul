@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhptiJ7L2lAI176KMj-imwNQQSBSoGhTxozEiLiO2gyRs8YbAq_Md4cFIPHDGSv11W0iPrXeLSBbfMgXO9Zbx8JopwWImyJSVh1LppIN42X0pwsKhVpHxAZOLsXpsVc5RFrsLUH68nhKzX8n_z3epFapWQnU4wYsNkKMjulpVltiXi5mD8l-7xF3ZCj/s640/tvain.png" group-title="Entretenimiento", AZTCA INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://lc.cx/ABRwuG" group-title="Entretenimiento", AZTCA INTERNACIONAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1691083049&id=10411&ip=45.224.152.74&override_expiration=1500&sign=zK1PIBs6E13FQXc%2BgxeY9vC8IBdfXx0eJlxNxUmh2Vw%3D
 
 #EXTINF:-2 tvg-logo="https://www.tvmundogt.com/wp-content/uploads/2020/10/5.jpeg" group-title="MEXICO", MUNDO TV | SD
@@ -8,13 +8,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 
-#EXTINF:-4 tvg-logo="https://mp2023.nyc3.digitaloceanspaces.com/651596180487/thumbnails/swgHC5hVkZ1VE2qu.jpg" group-title="ECUADOR", ECUAVISA 1
+#EXTINF:-4 tvg-logo="https://lc.cx/CAK8Dq" group-title="ECUADOR", ECUAVISA 1
 https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
 
-#EXTINF:-5 tvg-logo="https://tvtolive.com/wp-content/uploads/Majestad-TV.tvtolive.com_.jpg" group-title="ECUADOR", Magestad tv | SD
+#EXTINF:-5 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv | SD
 https://go.majestadtv.ec/hls/stream.m3u8
 
-#EXTINF:-6 tvg-logo="https://static-media.streema.com/media/cache/60/c6/60c62d6c76a028fe7600dbb23ecd3afd.jpg" group-title="ECUADOR", Ecuastereo | HD
+#EXTINF:-6 tvg-logo="https://lc.cx/81w4NA" group-title="ECUADOR", Ecuastereo | HD
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1891749768.m3u8
 
 #EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="ECUADOR", Telerama | HD
