@@ -36,7 +36,7 @@ https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
 #EXTINF:-13 tvg-logo="https://www.gamavision.com.ec/wp-content/uploads/2020/04/logo-gama.png" group-title="ECUADOR",GAMAVISION | SD
-https://live-ak.vimeocdn.com/exp=1692391428~acl=%2Fc1789d72-7ec4-42ae-9e73-774d80219818%2F%2A~hmac=7ee7d38b2b9a01d75a877543c783ef08edef00575cdf71a74f4337a67ef37826/c1789d72-7ec4-42ae-9e73-774d80219818/chunklist_b728000.m3u8
+https://live-ak.vimeocdn.com/exp=1692395401~acl=%2Fc1789d72-7ec4-42ae-9e73-774d80219818%2F%2A~hmac=b4344703248271e7ee0adb9ea80fa36c54fe7cffa6bc19ddcf6a22e8d4b31a34/c1789d72-7ec4-42ae-9e73-774d80219818/chunklist_b728000.m3u8
 
 #EXTINF:-14 tvg-logo="https://lc.cx/AJZkjB" group-title="ARGENTINA", Canal 7 jujuyuy | SD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
