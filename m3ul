@@ -221,7 +221,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 #EXTINF:-74 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT Docu | HD
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-75 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFDjCmq2Hw2y7-TnFNIExy6ptlOI-Z6CrWA&usqp=CAU" group-title="ECUADOR",Canal uno Ecuador
+#EXTINF:-75 tvg-logo="https://lc.cx/99ZvHx" group-title="ECUADOR",Canal uno Ecuador
 https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tercer_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg/1200px-Tercer_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg.png" group-title="PERU",PANAMERICANA| HD
@@ -362,7 +362,7 @@ https://youvideostreaming.club/hls/ecutv3.m3u8
 #EXTINF:-121 group-title="RELIGIÓN" , EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-122 tvg-logo="https://blixtv.com/wp-content/uploads/2023/07/oromartv.webp" group-title="ECUADOR", OROMAR TV | SD
+#EXTINF:-122 tvg-logo="https://lc.cx/QNCCjR" group-title="ECUADOR", OROMAR TV | SD
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-123 tvg-logo="https://i.imgur.com/z7cueNf.png" group-title="MUSICA", Top Latino | SD
@@ -401,7 +401,7 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8
 #EXTINF:-134 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6pwd4ddbpHbDaa0U1Xhk_RiikwmFDXc5Y9nhps4Za0F-6CCVxLAKxp542lW34Kg151Y&usqp=CAU" group-title="ECUADOR", INFINITA TV | HD
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
-#EXTINF:-135 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ecuador_TV.jpg" group-title="ECUADOR", ECUADOR TV| HD
+#EXTINF:-135 tvg-logo="https://lc.cx/q4XH-8" group-title="ECUADOR", ECUADOR TV| HD
 https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c212680b7/manifest/video.m3u8
 
 #EXTINF:-136 tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="MEXICO", MIAMI TV| HD
