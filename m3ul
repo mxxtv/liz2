@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/ABRwuG" group-title="Entretenimiento", AZTCA INTERNACIONAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1691083049&id=10411&ip=45.224.152.74&override_expiration=1500&sign=zK1PIBs6E13FQXc%2BgxeY9vC8IBdfXx0eJlxNxUmh2Vw%3D
 
-#EXTINF:-2 tvg-logo="https://www.tvmundogt.com/wp-content/uploads/2020/10/5.jpeg" group-title="MEXICO", MUNDO TV | SD
+#EXTINF:-2 tvg-logo="https://lc.cx/zhmhuL" group-title="MEXICO", MUNDO TV | SD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", RTS TV | SD
@@ -29,25 +29,25 @@ https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
 
-#EXTINF:-11 tvg-logo="https://i.pinimg.com/originals/46/1a/84/461a84f42fb05a5779a1c867d64e273b.jpg" group-title="ECUADOR", RTU TV | SD
+#EXTINF:-11 tvg-logo="https://lc.cx/6p7IqW" group-title="ECUADOR", RTU TV | SD
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 
-#EXTINF:-12 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcYoJoTcl2wVDMYyE3FST-8WX0kIkHtTFuA3UKZScXKDjn6c9tZMrH7oIiZRohieSF54UrYue891lKfGov2uMLZINBO-Q1C1V1zo6lXoGJmvSoEp-o-lAMZ2BZ4L13O34vQP1V7VAClFc4AR-Y4WV3QDTLlSiLeMnoQrnziWaw2SPMVr46jlixCRpR/s1600/asomavision.png" group-title="ECUADOR", Asomavision | SD
+#EXTINF:-12 tvg-logo="https://lc.cx/hhOju4" group-title="ECUADOR", Asomavision | SD
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
-#EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="COSTA RICA",CANAL 4 | SD
+#EXTINF:-13 tvg-logo="https://lc.cx/wcjEj" group-title="COSTA RICA",CANAL 4 | SD
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live5/chunklist_w1976056133.m3u8
 
-#EXTINF:-14 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png" group-title="ARGENTINA", Canal 7 jujuyuy | SD
+#EXTINF:-14 tvg-logo="https://lc.cx/AJZkjB" group-title="ARGENTINA", Canal 7 jujuyuy | SD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-15 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvRsmMxOKUx_-em7ZGRQf2orpzdFuRK-1Z_RKIE20WrnYKfuvvSv-Wz7NbSZcoAwiO8A&amp;usqp=CAU" group-title="CINE Y SERIES", Rakuten Drama | SD
+#EXTINF:-15 tvg-logo="https://is.gd/K2PLxu" group-title="CINE Y SERIES", Rakuten Drama | SD
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-16 tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="MUSICA", Venus Media | SD
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1072440449.m3u8?k=c324ea560ee8630b27b66dbac9d5bef6907264a236486fdbfdb7839211d4f1ec&amp;exp=1676256933
 
-#EXTINF:-17 tvg-logo="https://canalesdominicanos.live/template/images/radios/cristo-tv-radio.jpg" group-title="RELIGIÓN", Cristo tv | SD
+#EXTINF:-17 tvg-logo="https://lc.cx/jRr0Ty" group-title="RELIGIÓN", Cristo tv | SD
 https://vsrv2.az-streamingserver.com:3352/live/clarovisiontvradiolive.m3u8
 
 #EXTINF:-18 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="CINE Y SERIES", Cinemax | HD
@@ -62,20 +62,20 @@ https://youvideostreaming.club/hls/ecutv4.m3u8
 #EXTINF:-21 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="PUERTO RICO", Telemundo | SD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-22 tvg-logo="https://1.bp.blogspot.com/-yT22aG5TnjY/XxE7ri-XgKI/AAAAAAAAB_o/yRmzQT8Wm8Eq8OxtHuyElQr2PONDRrHVgCLcBGAsYHQ/s540/frecuenciamusicaltv_logoroku.jpg" group-title="CINE Y SERIES", Frecuencia tv | FHD
+#EXTINF:-22 tvg-logo="https://is.gd/VMKbmS" group-title="CINE Y SERIES", Frecuencia tv | FHD
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-23 tvg-logo="https://static2.tgstat.ru/channels/_0/17/1709ea70babf9cb66fd4203443c31cce.jpg" group-title="24/7", Pelis | HD
 https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
 
-#EXTINF:-24 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/240px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuavisa 2 | SD
+#EXTINF:-24 tvg-logo="https://is.gd/c0sqqp" group-title="ECUADOR", Ecuavisa 2 | SD
 https://youvideostreaming.club/hls/ecutv1.m3u8
 
-#EXTINF:-25 tvg-logo="https://2.bp.blogspot.com/-iumObiCGDOg/V9gRUPCJSeI/AAAAAAAAB2Y/QXqs7qzb2bkiuqRYtsa7BeHSfdxk2P8uACLcB/w1200-h630-p-k-no-nu/rts-en-vivo-online-por-internet.png" group-title="ECUADOR",Rts | SD
+#EXTINF:-25 tvg-logo="https://is.gd/sZl71c" group-title="ECUADOR",Rts | SD
 https://youvideostreaming.club/hls/ecutv2.m3u8
 
 #EXTINF:-26 tvg-logo="https://redtv.com.uy/wp-content/uploads/2019/10/logoheader2.png" ,La Red Tv
-https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
+https://d16pc5095tzygd.cloudfront.net/LaRed/d048098ce842377c101928b648065843.sdp/chunks.m3u8
 
 #EXTINF:-27 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da77b40cc9acf3c1b8b5642838906de4.webp" group-title="ECUADOR" , NOVELAS INOLVIDABLES
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8
