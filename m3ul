@@ -20,8 +20,8 @@ https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1891749
 #EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="ECUADOR", Telerama | HD
 https://envivo.telerama.ec/stream.m3u8
 
-#EXTINF:-8 tvg-logo="https://www.gamavision.com.ec/wp-content/uploads/2020/04/logo-gama.png" group-title="ECUADOR", GAMAVISION | SD
-https://live-ak.vimeocdn.com/exp=1692903833~acl=%2Ff65a392c-f82c-4bbd-933c-0dc1dfd44cd7%2F%2A~hmac=8a762c361988787288d5232ccd1c43f0127a709d304bf861446282229fbd96d5/f65a392c-f82c-4bbd-933c-0dc1dfd44cd7/chunklist_b2056000.m3u8
+#EXTINF:-8 group-title="CHILE" , VIVA movil tv
+https://tvdatta.com:3957/hybrid/play.m3u8
 
 #EXTINF:-9 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC ec | HD
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/chunks.m3u8
@@ -718,9 +718,6 @@ https://5cd577a3dd8ec.streamlock.net/CAMARAS/live5/chunklist_w1976056133.m3u8
 
 #EXTINF:-1 group-title="CHILE" , VIVA MOVIL 2 TV
 https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
-
-#EXTINF:-1 group-title="CHILE" , VIVA movil tv
-https://tvdatta.com:3957/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="PUERTO RICO",Telemundo Noticias
 https://live-content.xumo.com/2592/content/XM06GWT4TVFWAW/22861908/3.m3u8
