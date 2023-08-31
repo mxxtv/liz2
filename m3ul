@@ -357,7 +357,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
 #EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
-https://youvideostreaming.club/hls/ecutv3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_wu6QLUinFwdugxd9g5kWVvqDNNVkfg3LZwhndfFYxr)/dm/3/x7wijay/s/live-0.m3u8
 
 #EXTINF:-121 group-title="RELIGIÓN" , EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -991,7 +991,7 @@ https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTM3U #EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", AGOSTO | Latino | teleclub! 
 http://tv.teleclub.xyz/hls/welcome.m3u8 
 
-#EXTINF:-1 tvg-logo="https://lc.cx/-tQ7NA" group-title="SERVIDOR 2", Activar desde .teleclub.xyz/activar 
+#EXTINF:-1 tvg-logo="https://lc.cx/-tQ7NA" group-title="SERVIDOR 2", Activar desde http://teleclub.xyz/activar 
 http://tv.teleclub.xyz/hls/welcome.m3u8
 
 #EXTINF:-1 tvg-logo="https://lc.cx/-tQ7NA" group-title="SERVIDOR 2", EVENTO 01 
@@ -1033,9 +1033,9 @@ http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="SERVIDOR 2", Cartoonito 
 http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png" group-title="SERVIDOR 2", EnerGeek Retro 
-http://tv.teleclub.xyz/envivo/Infantil/ENERGEEK_RETRO/index.m3u8 
-
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png" group-title="SERVIDOR 2", EnerGeek Retro
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8 
+ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="SERVIDOR 2", CNN en Español 
 http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8 
 
@@ -1090,7 +1090,7 @@ http://tv.teleclub.xyz/envivo/Mundo/DW_Spanish/index.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/GsOMR6" group-title="SERVIDOR 2", Canal Uno 
 http://tv.teleclub.xyz/envivo/Mundo/CANAL_UNO/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="Cultura", Food Network 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="SERVIDOR 2", Food Network 
 http://tv.teleclub.xyz/envivo/Cultura/FOOD_NETWORK/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="SERVIDOR 2", Discovery Channel 
@@ -1256,7 +1256,7 @@ http://tv.teleclub.xyz/envivo/Musica/BANDAMAX/index.m3u8
 http://tv.teleclub.xyz/envivo/Musica/ENERGEEK_CCP_RADIO/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Radio-2023.png" group-title="SERVIDOR 2", EnerGeek Radio 
-http://tv.teleclub.xyz/envivo/Musica/ENERGEEK_RADIO/index.m3u8 
+http://tv.teleclub.xyz/envivo/Infantil/ENERGEEK_RETRO/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eja3aRk.png" group-title="SERVIDOR 2", Telehit 
 http://tv.teleclub.xyz/envivo/Musica/TELEHIT/index.m3u8 
