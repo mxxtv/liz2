@@ -225,7 +225,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tercer_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg/1200px-Tercer_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg.png" group-title="PERU",PANAMERICANA| HD
-https://cdn75.iblups.com/hls/2/stream.m3u8
+https://cdn75.iblups.com/hls/stream.m3u8
 
 #EXTINF:-77 tvg-logo="https://www.coolstreaming.us/img/ch/image92391202925.jpg" group-title="CINE Y SERIES", San Isidro tv | HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1187
