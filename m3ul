@@ -228,7 +228,7 @@ https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 https://cdn75.iblups.com/hls/stream.m3u8
 
 #EXTINF:-77 tvg-logo="https://www.coolstreaming.us/img/ch/image92391202925.jpg" group-title="CINE Y SERIES", San Isidro tv | HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1187
+https://live-ak.vimeocdn.com/exp=1695173397~acl=%2F232e4bd8-3c0b-4d9f-a20f-5fb984c95e66%2F%2A~hmac=2a17f3a4ac3015871d93e25eeb379ffa3769024cb1c7bb401c6d5387fc2b951e/232e4bd8-3c0b-4d9f-a20f-5fb984c95e66/chunklist_b3256000.m3u8
 
 #EXTINF:-78 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/46140fd597ed896d58f12c7e794d5f06.webp" group-title="PARAGUAY",Jazmín Tv En Vivo
 https://tvdatta.com:3957/stream/play.m3u8
