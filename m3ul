@@ -8,7 +8,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828&avod=1&coppa=0&is_lat
 #EXTINF:-3 tvg-logo="https://lc.cx/zhmhuL" group-title="MEXICO", MUNDO TV | SD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.
 
-#EXTINF:-4 tvg-logo="https://lc.cx/12-Ya9" group-title="ECUADOR", ECUAVISA 1
+#EXTINF:-4 tvg-logo="https://n9.cl/fetytr" group-title="ECUADOR", ECUAVISA 1
 https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
 
 #EXTINF:-5 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv 
@@ -38,7 +38,7 @@ https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-13 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="CINE Y SERIES", Sony Cine | SD
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
-#EXTINF:-14 tvg-logo="https://lc.cx/AJZkjB" group-title="ARGENTINA", Canal 7 jujuyuy | SD
+#EXTINF:-14 tvg-logo="https://onx.la/165e7" group-title="ARGENTINA", Canal 7 jujuyuy | SD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 #EXTINF:-15 tvg-logo="https://is.gd/K2PLxu" group-title="CINE Y SERIES", Rakuten Drama | SD
@@ -47,7 +47,7 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-16 tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="MUSICA", Venus Media | SD
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1072440449.m3u8?k=c324ea560ee8630b27b66dbac9d5bef6907264a236486fdbfdb7839211d4f1ec&amp;exp=1676256933
 
-#EXTINF:-17 tvg-logo="https://lc.cx/jRr0Ty" group-title="RELIGIÓN", Cristo tv | SD
+#EXTINF:-17 tvg-logo="https://n9.cl/mxitv" group-title="RELIGIÓN", Cristo tv | SD
 https://vsrv2.az-streamingserver.com:3352/live/clarovisiontvradiolive.m3u8
 
 #EXTINF:-18 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="CINE Y SERIES", Cinemax | HD
@@ -4149,4 +4149,3 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",Hazme el favor (2023) 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Hazme%20el%20favor%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
-
