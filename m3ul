@@ -101,7 +101,7 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3
 #EXTINF:-34 tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="ECUADOR", PURUWA TV  | SD
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2102122426.m3u8
 
-#EXTINF:-35 tvg-logo="https://lc.cx/nmaAA_" group-title="ECUADOR",TELEAMAZONAS sierra | SD
+#EXTINF:-35 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra | SD
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 
 #EXTINF:-36 tvg-logo="https://lc.cx/rkqH-X" group-title="CINE Y SERIES", Rakuten ACCION | HD
@@ -4176,3 +4176,66 @@ https://novelisima-vod.akamaized.net/nov/delivery/6123e0178e534b350a877189/maste
 
 #EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 7
 https://novelisima-vod.akamaized.net/nov/delivery/610d6a5ccc08f72440be30fd/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 8
+https://novelisima-vod.akamaized.net/nov/delivery/610d6a6fcc08f72440be30fe/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 9
+https://novelisima-vod.akamaized.net/nov/delivery/6123e0368e534b350a87718a/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 10
+https://novelisima-vod.akamaized.net/nov/delivery/6123e0538e534b350a87718b/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://images.vix.com/prd/videos/video:mcp:4361140/16c438e22bb40da5ac5a53680d7c3ba0?tr=w-1200,h-627,f-jpeg",Voltea Pa Que Te Enamores CAP 1
+https://frankly-vod.akamaized.net/venevision/transcoded/4767c4ca-c8fd-4352-a906-4a89ee6f8bbe/hls/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://images.vix.com/prd/videos/video:mcp:4361140/16c438e22bb40da5ac5a53680d7c3ba0?tr=w-1200,h-627,f-jpeg",Voltea Pa Que Te Enamores CAP 2
+https://frankly-vod.akamaized.net/venevision/transcoded/b2424a11-2df0-4b21-81f4-bbb164d35594/hls/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://images.vix.com/prd/videos/video:mcp:4361140/16c438e22bb40da5ac5a53680d7c3ba0?tr=w-1200,h-627,f-jpeg",Voltea Pa Que Te Enamores CAP 3
+https://frankly-vod.akamaized.net/venevision/transcoded/0cd305b8-3407-433d-935f-a5bb7d4ffeca/hls/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://images.vix.com/prd/videos/video:mcp:4361140/16c438e22bb40da5ac5a53680d7c3ba0?tr=w-1200,h-627,f-jpeg",Voltea Pa Que Te Enamores CAP 4
+https://frankly-vod.akamaized.net/venevision/transcoded/854a0eeb-6654-44e2-babb-6b155953df9c/hls/1200k/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://images.vix.com/prd/videos/video:mcp:4361140/16c438e22bb40da5ac5a53680d7c3ba0?tr=w-1200,h-627,f-jpeg",Voltea Pa Que Te Enamores CAP 5
+https://frankly-vod.akamaized.net/venevision/transcoded/350b8b1f-2c1e-4f46-80a7-0337b576b3a9/hls/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg",El País De Las Mujeres CAP 1
+https://novelisima-vod.akamaized.net/nov/delivery/6109b9cc1f67f010bfa98d92/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg",El País De Las Mujeres CAP 2
+https://novelisima-vod.akamaized.net/nov/delivery/610acd25b9b2cd10d1a31218/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg",El País De Las Mujeres CAP 3
+https://novelisima-vod.akamaized.net/nov/delivery/610d7346cc08f72440be3122/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg",El País De Las Mujeres CAP 4
+https://novelisima-vod.akamaized.net/nov/delivery/610d735ccc08f72440be3123/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg",El País De Las Mujeres CAP 5
+https://novelisima-vod.akamaized.net/nov/delivery/610d736ecc08f72440be3124/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg",El País De Las Mujeres CAP 6
+https://novelisima-vod.akamaized.net/nov/delivery/610d7381cc08f72440be3125/master.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://webcam.lgbt/wp-content/uploads/2023/03/image-97.png",POV PORNO
+https://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.logotypes101.com/logos/902/628B6656F15FF18373495599DF11E7F3/Pornstar.png",PORNSTAR
+https://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://lc.cx/VkiN5Q",BLOWJOB
+https://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://lc.cx/_8ke6X",HUSTLER
+https://b-hls-10.doppiocdn.com/hls/76592543/76592543.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/brazzers-tv-official-logo.png",BRAZZERS TV
+https://livechannels.xyz:2053/iptv/brazzers/playlist.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/hustler-hd-official-logo.png",Hustler-hd-tv
+https://livechannels.xyz:2053/iptv/hustlertv/playlist.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/1200px-Dorcel_TV.svg.png",DORCEL-hd-tv
+https://livechannels.xyz:2053/iptv/dorcel/playlist.m3u8
