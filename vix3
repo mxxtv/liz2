@@ -3,7 +3,7 @@
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC4 HRS NOCH
-https://live-c.cf.dmcdn.net/sec2(K9wCLBazH3I2jRBA6mBO1Gta8AEFaWYpVARoAZBB9y8RCtVpuQzyOSjj_0OnYMEAL3f_6a681XJk3mDSjeDNJ9OgUSJ7ThFzgtIAbNzr6IM)/dm/3/x7wijay/d/live-2.m3u8
+https://live-c.cf.dmcdn.net/sec2(fbQnUZNH-dYm5ojgp2Qfg8QIcJSu9B0ey6xNg-fkGYpMqyKkqQ_ZAZecTAPPYcKl78QY9Nv2AB4qYc_XDFIvmt3jGVOGgyMTHVI_4u7X5cs)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
@@ -1116,7 +1116,7 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-373 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="MEXICO" , LAS ESTRELLAS 1
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-374 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="MEXICO" , LAS ESTRELLAS LATI
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -1135,10 +1135,10 @@ https://linear-262.frequency.stream/mt/studio/262/hls/master/playlist.m3u8
 
 #EXTINF:-379 #EXTINF:-1 tvg-logo="https://thedominicanchannels.net/wp-content/uploads/2019/08/HITS360-300x194-1.png" group-title="MEXICO" ,Hits360
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u1 tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="MEXICO" , Telehit
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
 #EXTINF:-380 group-title="MUSICA" tvg-logo="https://i.imgur.com/NVxHxJn.png",Telehit Música Plus
-https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
 #EXTINF:-381 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="MEXICO" , TELEFORMULA
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
@@ -1441,7 +1441,6 @@ https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBOHkgL.png"tvg-id="Afizzionados.mx"group-title="DEPORTES",Afizzionados
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
@@ -1458,7 +1457,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-id="AztecaUno.mx"group-title="MEXICO",Azteca Uno (720p)
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" tvg-id="bitMe.mx"group-title="MEXICO",bitMe (576p)
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
@@ -1522,7 +1521,7 @@ https://linear-450.frequency.stream/mt/studio/450/hls/master/playlist.m3u8
 https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-id="TlnovelasMexico.mx"group-title="CANALES 24/7 ᵸᴰ",Tlnovelas ²⁴⁺⁷ (ᵸᴰ)
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/TL_Novelas_t4/playlist.m3u8
 
 #EXTINF:-5 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv R
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
@@ -1745,7 +1744,7 @@ http://190.90.154.73:8080/play/a08z/index.m3u8
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 
 #EXTINF:-1 tvg-id="MX | Tlnovelas Latinoamérica" tvg-name="MX | Tlnovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 59 | Tlnovelas Latinoamérica
-http://bantel.iptvperu.tv:1935/transcoderip/TL_Novelas_t4/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="NOVELAS", 60 | Las Estrellas Latinoamérica
 http://bantel.iptvperu.tv:1935/transcoderip/Canal_LasEstrellas_t4/playlist.m3u8
@@ -1784,10 +1783,10 @@ http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="CINE Y SERIES", 72 | Sony Channel
-http://bantel.iptvperu.tv:1935/transcoderip/sonychannel_t4/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="CINE Y SERIES", 73 | Sony Movies
-http://bantel.iptvperu.tv:1935/transcoderip/SonyMovies_t4/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CL | MX Family" tvg-name="CL | MX Family" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="CINE Y SERIES", 74 | MX Family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
@@ -2095,27 +2094,32 @@ http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="CANALES 24/7 ᵸᴰ", 175 | Comedy Central 
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EE.UU. | Canal de golf" tvg-name="EE.UU. | Canal de golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/ Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 219 | Canal de Golf
+http://138.59.177.34:8000/play/a03b/index.m3u8
+
+#EXTINF:-1 tvg-id="CL | Ext Deporte" tvg-name="CL | Ext Deporte" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT- EXT-FONDO-2-300x169.jpg" group-title="DEPORTES", 220 | Extensión deportiva
+https://marine2.miplay.cl/sportext/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES", 221 | ESPN
-http://bantel.iptvperu.tv:1935/transcoderip/ESPN_t2.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lc.cx/RKCOA7" group-title="DEPORTES", 222 | ESPN 2
-http://bantel.iptvperu.tv:1935/transcoderip/ESPN2_t2.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EE.UU. | ESPN 3" tvg-name="EE.UU. | ESPN 3" tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="DEPORTES", 223 | ESPN 3
-http://bantel.iptvperu.tv:1935/transcoderip/ESPN3_t2.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EE.UU. | ESPN 4" tvg-name="EE.UU. | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="DEPORTES", 224 | ESPN 4
-http://bantel.iptvperu.tv:1935/transcoderip/ESPN4_t2.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EE.UU. | ESPN 5" tvg-name="EE.UU. | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="DEPORTES", 225 | ESPN 5
-http://bantel.iptvperu.tv:1935/transcoderip/ESPN5_t2.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EE.UU. | ESPN 6" tvg-name="EE.UU. | ESPN 6" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png" group-title="DEPORTES", 226 | ESPN 6
-http://bantel.iptvperu.tv:1935/transcoderip/ESPN6_t2.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EE.UU. | ESPN 7" tvg-name="EE.UU. | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="DEPORTES", 227 | ESPN 7
-http://bantel.iptvperu.tv:1935/transcoderip/ESPN7_t2.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX | Claro Deportes" tvg-name="MX | Claro Deportes" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="DEPORTES", 228 | Claro Deportes
 http://138.59.177.34:8000/play/a01i/index.m3u8
@@ -2653,20 +2657,14 @@ http://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="Canal 6 GTO" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5 .png" ,Canal 6 GTO
 http://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMhSmDK.png" tvg-id="DePeliculaLatinAmerica.mx"group-title="MEXICO",De Película (576p)
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMhSmDK.png" tvg-id="DePeliculaLatinAmerica.mx"group-title="CINE Y SERIES",De Película 
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-id="DePeliculaPlus.mx"group-title="MEXICO",De Película Plus (576p)
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/143.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-id="DePeliculaPlus.mx"group-title="CINE Y SERIES",De Película Plus 
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/143.m3u8
 
 #EXTINF:-1 tvg-logo="https://lc.cx/71oc1G" tvg-id="DistritoComedia.mx"group-title="MEXICO",Distrito Comedia (576p)
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+http://45.5.117.182:8000/play/ihf9/index.m3u8
 
 #EXTINF:-1 tvg-id="EclipseTV.mx",Eclipse TV (720p)
 https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
@@ -2701,8 +2699,6 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx"group-title="CINE Y SERIES",Golden Premier (576p)
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx",Las Estrellas Latinoamérica (720p)
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="LoboTV.mx",Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w1335144447.m3u8
@@ -3879,8 +3875,31 @@ http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="SERVIDOR 2", La Rosa de Guadalupe ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
 
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cO6x9pTZHIBXbPLcmFSCXAI6Ky3.jpg",El Arca de Noé (2024) 
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Arca%20de%20No%C3%A9%20online%20HD%20-%20Cuevana%202.mp4
 
-#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Doctor Strange en el multiverso de la locura(2022) 
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cIzk6GhxEZuweekGFXWEoAyuaMX.jpg",La primera profecía (2024) CAM 
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20La%20primera%20profec%C3%ADa%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg",Godzilla y Kong: El nuevo imperio (2024) CAM
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Godzilla%20y%20Kong-%20El%20nuevo%20imperio%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/95VlSEfLMqeX36UVcHJuNlWEpwf.jpg" ,Argylle: Agente secreto (2024) 
+http://vod.tuxchannel.mx/peliculas/720/argylle%202024.mkv
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sMp34cNKjIb18UBOCoAv4DpCxwY.jpg",Damsel (2024) 
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Damsel%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo ="https://image.tmdb.org/t/p/w500/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg",Ricky Stanicky: El impostor (2024) 
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Ricky%20Stanicky-%20El%20impostor%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wkfG7DaExmcVsGLR4kLouMwxeT5.jpg",Kung Fu Panda 4 (2024) (CAM
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FWatch%20Kung%20Panda%202024%201080p%20CAMRip%20LAT%20DUB%201XBET%20mp4.mp4
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yRZfiG1QpRkBc7fAmxfcR7Md5EC.jpg",Megamind contra el sindicato del mal (2024) 
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Megamente%20contra%20el%20sindicato%20de%20Doom%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBADD9QIFYf8BJSXoOg169NWJLv7SrUV12vWXWXCzkKg&s",Doctor Strange en el multiverso de la locura(2022) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20Doctor%20Strange%20en%20el%20multiverso%20de%20la%20locura%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
  
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg",The Valet (2022) 
@@ -3888,7 +3907,6 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",Predator: La presa (2022) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Predator-%20La%20presa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
-
 
 #EXTINF:-473 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Avatar-%20El%20sentido%20del%20agua%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
