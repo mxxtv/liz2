@@ -5,14 +5,14 @@ https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
 
-#EXTINF:-3 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4 HRS NOCH
-https://live-c.cf.dmcdn.net/sec2(nyrq_M0IEuAEiEp2QYbtjSQtFwJvrP78od42lFkCe0dEjEBCfZubLI89ODYiHD09WijYIHl1efctEhB814ajkE4zB9vAjhSeouwGUwwoZEA)/dm/3/x7wijay/d/live-0.m3u8
-
-#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA GYQUIL
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-
-#EXTINF:-5 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv 
+#EXTINF:-3 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv 
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+
+#EXTINF:-4 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4 HRS NOCH
+https://live-c.cf.dmcdn.net/sec2(Q-w8bPVUw7nchVmbGfagXVlWJ9gpHq_pfUWWpHB0KQdCr67AK5pvF1jHpPSNqOxqf01O8svhvdqJDQD5By7eyOJKFyLZ-Mss1z5GW00gOCs)/dm/3/x7wijay/d/live-2.m3u8
+
+#EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA GYQUIL
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
 #EXTINF:-6 tvg-logo="https://lc.cx/81w4NA" group-title="ECUADOR", Ecuastereo 
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
@@ -1133,8 +1133,7 @@ https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 #EXTINF:-378 group-title="MEXICO" tvg-logo="",Nuestra Visión
 https://linear-262.frequency.stream/mt/studio/262/hls/master/playlist.m3u8
 
-#EXTINF:-379 #EXTINF:-1 tvg-logo="https://thedominicanchannels.net/wp-content/uploads/2019/08/HITS360-300x194-1.png" group-title="MEXICO" ,Hits360
-https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u1 tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="MEXICO" , Telehit
+#EXTINF:-379 #EXTINF:-1 tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="MEXICO" , Telehit
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
 #EXTINF:-380 group-title="MUSICA" tvg-logo="https://i.imgur.com/NVxHxJn.png",Telehit Música Plus
@@ -1679,10 +1678,10 @@ https://live.obslivestream.com/supercanal/index.m3u8
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
 #EXTINF:-1 tvg-id="PE | Radio Televisión Oriente" tvg-name="PE | Radio Televisión Oriente" tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="PERU", 41 | Radio Televisión Oriente || Yurimaguas
-https://live.obslivestream.com/tvoriente/index.m3u8
+https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PE | Telecolor" tvg-name="PE | Telecolor" tvg-logo="https://telecolortv.pe/wp-content/uploads/2022/01/inicio_app.png" group-title="PERU", 42 | Telecolor || Yurimaguas
-https://live.obslivestream.com/telecolormux/index.m3u8
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 
 #EXTINF:-1 tvg-id="PE | RN Noticias" tvg-name="PE | RN Noticias" tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="PERU", 43 | RN Televisión || Yurimaguas
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
@@ -1736,7 +1735,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 http://177.234.230.226:8010/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | TNT Novelas" tvg-name="USA | TNT Novelas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156" group-title="NOVELAS", 57 | TNT Novelas
-http://190.90.154.73:8080/play/a08z/index.m3u8
+http://138.59.177.34:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS", 58 | Azteca Corazón
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8
@@ -1745,13 +1744,13 @@ https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="NOVELAS", 60 | Las Estrellas Latinoamérica
-http://bantel.iptvperu.tv:1935/transcoderip/Canal_LasEstrellas_t4/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/Canal_LasEstrellas_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="NOVELAS", 61 | Univisión Latinoamérica
-http://bantel.iptvperu.tv:1935/transcoderip/Univision_t4/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="NOVELAS", 62 | Telemundo Internacional
-http://bantel.iptvperu.tv:1935/transcoderip/telemundo_t4/playlist.m3u8
+http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES", 63 | Investigation Discovery
 http://138.59.177.34:8000/play/a06g/index.m3u8
@@ -1808,10 +1807,10 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="CINE Y SERIES", 80 | TCM
-http://190.149.66.90:4000/play/a02m/index.m3u8
+http://138.59.177.34:8000/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="CINE Y SERIES", 81 | Classic +
-http://bantel.iptvperu.tv:1935/bantel/classic.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astra/Classic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="CINE Y SERIES", 82 | Studio Universal
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
@@ -1826,7 +1825,7 @@ http://138.59.177.34:8000/play/a00y/index.m3u8
 http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="CINE Y SERIES", 86 | Warner Channel
-http://138.59.177.34:8000/play/a05d/index.m3u8
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Tu Cine" tvg-name="USA | Tu Cine" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="CINE Y SERIES", 87 | Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
@@ -1853,19 +1852,19 @@ http://177.234.230.226:8010/play/a00a/index.m3u8
 http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Universal Crime" tvg-name="USA | Universal Crime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime-mediano.png" group-title="CINE Y SERIES", 95 | Universal Crime
-http://190.149.66.90:4000/play/a03w/index.m3u8
+http://138.59.177.34:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Universal Cinema" tvg-name="USA | Universal Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png" group-title="CINE Y SERIES", 96 | Universal Cinema
-http://190.149.66.90:4000/play/a056/index.m3u8
+http://138.59.177.34:8000/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Universal Reality" tvg-name="USA | Universal Reality" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png" group-title="CINE Y SERIES", 97 | Universal Reality
-http://190.149.66.90:4000/play/a03v/index.m3u8
+http://138.59.177.34:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Universal Comedy" tvg-name="USA | Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest/scale-to-width-down/250?cb=20220102015318&path-prefix=es" group-title="CINE Y SERIES", 98 | Universal Comedy
-http://190.149.66.90:4000/play/a03x/index.m3u8
+http://138.59.177.34:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="CINE Y SERIES", 99 | Universal Premiere
-http://190.149.66.90:4000/play/a03t/index.m3u8
+http://138.59.177.34:8000/play/a05s/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Universal Premiere Oeste" tvg-name="USA | Universal Premiere Oeste" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1684337481747-universal-premiere.png" group-title="CINE Y SERIES", 99.2 | Universal Premiere Oeste
 http://138.59.177.34:8000/play/a05t/index.m3u8
@@ -1955,7 +1954,7 @@ http://191.97.60.193:10000/play/a02u/index.m3u8
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
 #EXTINF:-1 tvg-id="CL | Varied TV" tvg-name="CL | Varied TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQBY8FAi-uiwIRZmNA7yOr1cMK1MRSi8h0Etx0EKfkIR3WEUPxPdNHkNAuNKKLTQ5f0w&usqp=CAU" group-title="NIÑOS Y ADOLECENTES", 128 | Varied TV
-https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="NIÑOS Y ADOLECENTES", 129 | Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
@@ -2000,25 +1999,25 @@ http://138.59.177.34:8000/play/a028/index.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="NIÑOS Y ADOLECENTES", 143 | Discovery Kids
-http://190.61.55.186:1010/play/a001/index.m3u8
+http://181.78.105.146:2000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="NIÑOS Y ADOLECENTES", 144 | Disney Channel
-http://bantel.iptvperu.tv:1935/transcoderip/disneychannel_t2.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t2/disneychannel_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png" group-title="NIÑOS Y ADOLECENTES", 145 | Disney Junior
-http://bantel.iptvperu.tv:1935/transcoderip/disneyjr_t2.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t2/disneyjr_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | DreamWorks" tvg-name="USA | DreamWorks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" group-title="NIÑOS Y ADOLECENTES", 148 | DreamWorks
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="NIÑOS Y ADOLECENTES", 149 | Nickelodeon
-http://bantel.iptvperu.tv:1935/transcoderip/nick_t4/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Nick Jr." tvg-name="USA | Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="NIÑOS Y ADOLECENTES", 150 | Nick Jr.
-http://bantel.iptvperu.tv:1935/transcoderip/nickjr_t4/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/nickjr_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | TeenNick" tvg-name="USA | TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/245px-TeenNick_2019_logo.svg.png" group-title="NIÑOS Y ADOLECENTES", 151 | TeenNick
-http://bantel.iptvperu.tv:1935/transcoderip/nickteen_t4/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CL | Moni TV" tvg-name="CL | Moni TV" tvg-logo="https://i.paste.pics/5700114855145b35e03c4831c13238d5.png" group-title="NIÑOS Y ADOLECENTES", 152 | Moni TV
 https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
@@ -2030,19 +2029,19 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Canal IPe" tvg-name="PE | Canal IPe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Canal_IPe_Abril_2022.png/190px-Canal_IPe_Abril_2022.png" group-title="NIÑOS Y ADOLECENTES", 155 | Canal IPe
-http://bantel.iptvperu.tv:1935/transcoderip/ipe_t1/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t1/ipe_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | DM Kids TV" tvg-name="PE | DM Kids TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo_david_transparente.png" group-title="NIÑOS Y ADOLECENTES", 156 | DM Kids TV
-https://ott1.hdlatam.tv/live/k1DS_tvLKENFSRJVFB/playlist.m3u8
+https://ott1.hdlatam.tv/live/k1DS_tvLKENFS53FB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Canal Infantil" tvg-name="USA | Canal Infantil" tvg-logo="https://www.latingroup.us/images/logoci.png" group-title="NIÑOS Y ADOLECENTES", 157 | Canal Infantil
-http://191.97.60.193:10000/play/a02y/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | FMH Kids" tvg-name="USA | FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="NIÑOS Y ADOLECENTES", 158 | FMH Kids
-http://191.97.60.193:10000/play/a02q/index.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/FMH_Kids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX | bitMe" tvg-name="MX | bitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png" group-title="NIÑOS Y ADOLECENTES", 159 | bitMe
-http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+https://linear-401.frequency.stream/dist/studio/401/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CL | Pandamax" tvg-name="CL | Pandamax" tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" group-title="NIÑOS Y ADOLECENTES", 160 | Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
@@ -2072,7 +2071,7 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="CANALES 24/7 ᵸᴰ", 169 | Tom y Jerry TV
-https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
 
 #EXTINF:-1 tvg-id="USA | Ben 10 TV" tvg-name="USA | Ben 10 TV" tvg-logo="https://w7.pngwing.com/pngs/972/930/png-transparent-ben-10-alien-force-logo-cartoon-network-miscellaneous-game-cdr.png" group-title="CANALES 24/7 ᵸᴰ", 170 | Ben 10 TV
 http://51.159.104.29:8080/ben10/index.m3u8
@@ -2085,6 +2084,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="CANALES 24/7 ᵸᴰ", 173 | El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MX | Una familia con suerte TV" tvg-name="MX | Una familia con suerte TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Una_familia_con_suerte.jpg" group-title="CANALES 24/7 ᵸᴰ", 172 | Una familia con suerte TV
+https://linear-580.frequency.stream/dist/studio/580/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="CANALES 24/7 ᵸᴰ", 174 | Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
