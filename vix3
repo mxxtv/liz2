@@ -9,7 +9,7 @@ https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12b
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 
 #EXTINF:-4 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4 HRS NOCH
-https://live-c.cf.dmcdn.net/sec2(Q-w8bPVUw7nchVmbGfagXVlWJ9gpHq_pfUWWpHB0KQdCr67AK5pvF1jHpPSNqOxqf01O8svhvdqJDQD5By7eyOJKFyLZ-Mss1z5GW00gOCs)/dm/3/x7wijay/d/live-2.m3u8
+https://live-c.cf.dmcdn.net/sec2(P0Pb4J-DHs6HwmyExaw5SRn7BrvmsfaudFAfWS_Jq83VDdgvaJ5IkkxsrsLnaVsgk1rlE8-td0IhVvewIhx9G9L4whiixqhF2D-7YDGgOsg)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA GYQUIL
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
@@ -1755,7 +1755,7 @@ http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES", 63 | Investigation Discovery
 http://138.59.177.34:8000/play/a06g/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES", 64 | A&E
+#EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="CINE Y SERIES", 64 | A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="CINE Y SERIES", 65 | AMC
@@ -1858,7 +1858,7 @@ http://138.59.177.34:8000/play/a05v/index.m3u8
 http://138.59.177.34:8000/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Universal Reality" tvg-name="USA | Universal Reality" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png" group-title="CINE Y SERIES", 97 | Universal Reality
-http://138.59.177.34:8000/play/a05u/index.m3u8
+ttp://138.59.177.34:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Universal Comedy" tvg-name="USA | Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest/scale-to-width-down/250?cb=20220102015318&path-prefix=es" group-title="CINE Y SERIES", 98 | Universal Comedy
 http://138.59.177.34:8000/play/a05w/index.m3u8
@@ -1920,6 +1920,9 @@ http://138.59.177.34:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="CINE Y SERIES", 116 | Canal MC
 http://138.59.177.34:8000/play/a04f/index.m3u8
 
+#EXTINF:-1 tvg-id="USA | DHE" tvg-name="USA | DHE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="PELICULAS Y SERIES", 122 | DHE
+http://bantel.iptvperu.tv:1935/transcoderip/DHE_t2.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="CINE Y SERIES", 117 | Cine Mexicano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 
@@ -1940,6 +1943,18 @@ http://191.97.60.193:10000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="CINE Y SERIES", 123 | FMH Family
 http://160.20.165.246:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-id="EE.UU. | Cine Premium" tvg-name="EE.UU. | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium. png" group-title="CINE Y SERIES", 123 | Cine Premium
+http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EE.UU. | Cine Hispano" tvg-name="EE.UU. | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano- us.png" group-title="CINE Y SERIES", 124 | Cine Hispano
+http://bantel.iptvperu.tv:1935/transcoderip/cinehispano_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EE.UU. | Cine Familiar" tvg-name="EE.UU. | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar. png" group-title="CINE Y SERIES", 125 | Cine Familiar
+http://bantel.iptvperu.tv:1935/transcoderip/cinefamiliar_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USA | FMH Películas" tvg-name="USA | FMH Películas" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies. jpg" group-title="CINE Y SERIES", 126 | Películas FMH
+http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CL | Dos Kids" tvg-name="CL | Dos Kids" tvg-logo="https://pbs.twimg.com/media/FnqhNDZWQAg6Q-H?format=png&name=240x240" group-title="NIÑOS Y ADOLECENTES", 124 | Dos Kids
 http://190.110.109.104:52321/play/a00w/index.m3u8
