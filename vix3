@@ -9,7 +9,7 @@ https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12b
 https://stream-pull-a.yololiv.com/yololiv/1144278368544358401_yo720p30f.m3u8
 
 #EXTINF:-4 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
-https://live-c.cf.dmcdn.net/sec2(fTPJyOzvkhGidvoj7V7jz9qeErxrgLYwdF8fPLtSYLM-TC4d5CJkyYCZRz4ftf9v8vPFHUXAsaDXbgU2BZTM74wA1GteMrApj8GvIxlfVJg)/dm/3/x7wijay/d/live-2.m3u8
+https://live-c.cf.dmcdn.net/sec2(Vp1mZWHZLEl6Y-Ro5qPC9z1q5V6XQ2s8-tyl9Ocwh45O7t4N_iCIhciMdGb3ON-l4KVA4v8vueSE7EXyaeofAp84DbqQP-OOEBnpYexWF40)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA GYQUIL
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
@@ -38,7 +38,7 @@ https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-13 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="CINE Y SERIES", Sony Cine | SD
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
-#EXTINF:-14 tvg-logo="https://i.imgur.com/j5Vvxd5.png"group-title="ECUADOR",OROMAR TV
+#EXTINF:-14 tvg-logo="https://i.imgur.com/j5Vvxd5.png"group-title="ECUADOR",OROMAR TV ec
 https://streaming.oromartv.com/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-15 tvg-logo="https://is.gd/K2PLxu" group-title="CINE Y SERIES", Rakuten Drama | SD
@@ -614,8 +614,8 @@ https://chiquilines-freetv.amagi.tv/Chiquilines-plex/master.m3u8
 #EXTINF:-205 tvg-name="Antares tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_Xm9OxtHU_rMvuUG3mnc4UrQOEqpKZb6tMOANNki0-NtwzoLJpyeNneZ0XOJ7aa0bSo&usqp=CAU" group-title="PERU",Antares tv | SD
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w334845884.m3u8
 
-#EXTINF:-206 tvg-name="Retro plus" tvg-logo="https://image.winudf.com/v2/image1/cmV0cm94LnR2X2ljb25fMTY3NDc1Mjg4OV8wOTI/icon.png?w=184&fakeurl=1" group-title="CINE Y SERIES",RetroX tv
-https://tgn.bozztv.com/ssh101/ssh101/123456789/chunks.m3u8
+#EXTINF:-206 tvg-name="Retro plus" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3033-294x165-FFFFFF.jpg" group-title="CINE Y SERIES",RetroX tv
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
 #EXTINF:-207 tvg-name="TOP Latino" tvg-logo="https://i.imgur.com/QMt8xxw.png" group-title="MEXICO",TOP Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
@@ -659,8 +659,8 @@ https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
 #EXTINF:-220 tvg-logo="https://www.multicanalcatamayo.com/wp-content/uploads/2023/01/Sin-titulo-1.png" group-title="ECUADOR" , Multicanal Catamayo
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-#EXTINF:-221 group-title="CINE Y SERIES" , KONFU MOVIES
-https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/PULBTK6FMBFU4URFHHMI/hls3/now_-1m_15s/m.m3u8?ads.vast_id=651545
+#EXTINF:-221 group-title="CINE Y SERIES" , CINE EN ESPAÑOL
+https://amg02724-amg02724c1-runtime-latam-2587.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-runtimelatam/cb57381b6570678a84cb3a64cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee05a168c6bf3b101489c2e47fa83439c8201e988825f83158070f9169894f589d417d38c81599306f224365a37739d8c7ce1bb37c6d99564779d7c25495047f3ad87f74339dc0e293ffcf6cfcd2795539c8873d96360ec599b17dd67db3af20cf2b819a3fde3da47163ca197023777f4bfd5e0933423ad59f5a3e4d80115f391066d49dd64d527714bfa91cc1094d12a95b92d96b167094aa3fb24cac7d9e98bb7895a8e57a9ad95c8673b2411070d8849a79479e425d46eaddd0733594c49dff93fa5d783345a01438b942cb7797ae981fee9b30d33cb6e155fe45fd75a0869be51061ff738f7c05606ea220491475e913965da3796da25e5d5b48f6b6fe0909510ab21bee0589ca15af329563701bcfc385a4b5842c3eb671e3f77b1378ea3ebd15e3613e9f6def1ce7d2d0a3b124056cf8892739480d42c1302fe43346f7005149316e967de0d4c7245a377e1893958a4250400c3fd4737316893deb88282e9c745be7aa1a6975e2b3e4a68a93c157c1ab9dc984ac22859776c5c83161625d7630b7bc4d893b4f3ed6fde8c5bb92c6d0666fae5054d7b12191d028f8478c404addc0aae8c844ed9e1991b488072b7175f9ad5ca65fbe8929d3a65f6b95411669edd55ae1944f532e407a9f155f5950f11765e5549b09f3ef072b6c593cb279b63f801533ea24fb292e7bcc17516c9a50a626347054c3f657f225aec81957c562fa5fc06f64deaee62ac407f3a2b088bd15710d5be3754b71d4a4d89ec8b87a4c10650ed6bf77ec62943855f1f21ecc977bbd1e6bdaac93f1a509985aa4abab381ce99859d682d5d5e0bf1b337afb267478aee22c2ef7a59ec9c8ae1d57ce50d885788a5c6e060a1c2b1d13da18589f6bb561a5b485effc08d9a5ebbee4d2de90aa58aa530d2157b2b1cff76812cd0d56e40cf764fa33b6c54caaab423dd2aa1e7283fee8b5394b41e3decefe52f10c425e8757c2db185b66735cbcc18800db5a1b75e1cc25845a470576ffa28a1c7a73f3ba8fc321041e10e308975afc1cd130c21f9dc35736a45273d3dfc6c106ce83761a05a95e1e1ba6769ce22821d30b27ce09305f3ec5ca0a38aa3eed63963a6e50559a75cb045ea75bcace5920fad5d65a57f825a33f6adbbd0fcac96e7818f641972f0639406cf7a9fbcd9b27d140577db4f760a1ff513c7041e40d6a371cfb4467889cef76196504c242e63469e5c7d2c1cfa34485e281737dc/56/1920x1080_5500000/index.m3u8
 
 #EXTINF:-222 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/ybSn8tp.png",Citytv Bogotá
 https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
@@ -755,8 +755,8 @@ https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u
 #EXTINF:-252 group-title="VARIOS", TELEUNIVERSO
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
-#EXTINF:-253 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3449-294x165-FFFFFF.jpg" group-title="CINE Y SERIES", P3-tv+ Radio
-https://5790d294af2dc.streamlock.net/8042/8042/playlist.m3u8
+#EXTINF:-253 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1242-294x165-FFFFFF.jpg" group-title="VARIOS", Tele-caribe
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 
 #EXTINF:-254 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/21a5d9ccaa09401c5ba0da19a6eef158.webp" group-title="ECUADOR",Flou Caribeño TV
 https://amg01768-flou-floucaribe-canelatv-cgucr.amagi.tv/playlist/amg01768-flou-floucaribe-canelatv/cb57381b6570678a84cb3a64cef64482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee35d10d86da0b5014e967941fa83439c8101e983d15b834bd724f516ccc6f289d61683e4fa598b6f18f1b639581fbca33bf4ec5ea3db9e662bee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb007ddb52df27d641f4ac2221e97ed17fd4bf737f6a919bf7fb2b5681e8a598f23632f241eea3f0dc626990fa2eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a543b8264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b6b4a8763563fe8ec5dfcff1dec62dacc096/43/1920x1080_5058864/index.m3u8
@@ -873,7 +873,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
 
 #EXTINF:-292 tvg-logo="https://horrorsocietycom.stage.site/wp-content/uploads/2014/04/1622211_263077723861518_1321068019_n.jpg" group-title="CINE Y SERIES", TERROR TV | SD
-https://tv.streaming-chile.com:1936/8140/8140/chunklist_w2077926139.m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00070-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c808f376-3c51-4ce4-8dc1-f9b1e9c494cc&userId=&serverSideAds=true
 
 #EXTINF:-293 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="NIÑOS Y ADOLECENTES", PAKA PAKA
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w1690172172.m3u8
@@ -7918,3 +7918,4 @@ http://186.103.142.222:8000/play/a086/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", UFC NET FHD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/5.m3u8
+
