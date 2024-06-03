@@ -9,7 +9,7 @@ https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12b
 https://stream-pull-a.yololiv.com/yololiv/1144278368544358401_yo720p30f.m3u8
 
 #EXTINF:-4 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
-https://live-c.cf.dmcdn.net/sec2(ch6aINvRPZ8KJTnUuqKSdG943yrKuNLc8eRG3Qihj-kWyVl7fYxD3_ZQTfHkecDLkGejOUowmvqB12Z56sQNDlyxpl5Y4vGLGkCHLM6Vo-8)/dm/3/x7wijay/d/live-2.m3u8#cell=lcfc
+https://live-c.cf.dmcdn.net/sec2(rQQyd3qsbmgCsBnojZQJj1ezHjb4iV95eALWrakSeohBZbHRRevKUC21XZ4CKP4H57hBPD8Ruavt8XUfxazNXfhrutCkpfDJF6YNtCG9Xiw)/dm/3/x7wijay/d/live-2.m3u8#cell=lcfc
 
 #EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA GYQUIL
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
@@ -949,7 +949,7 @@ https://live.obslivestream.com/sonoondatv/index.m3u8
 https://video.compuwebecuador.com:3880/stream/play.m3u8
 
 #EXTINF:-317 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="ECUADOR",Agrotendencia TV (1080p)
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+http://181.78.105.146:2000/play/a08b/index.m3u8
 
 #EXTINF:-318 tvg-id="AmericaEstereoGuayaquil.ec" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="ECUADOR", América Estéreo Guayaquil (360p)
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
@@ -1487,8 +1487,8 @@ https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Amor Bravio ²⁴⁺⁷
 https://linear-478.frequency.stream/mt/studio/478/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="https://i.postimg.cc/ZK7Ln4Kx/La-usurpadora.jpg",La Usurpadora ²⁴⁺⁷
-https://linear-448.frequency.stream/mt/studio/448/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="https://i.postimg.cc/1R76ntz6/nms.png",Acción Mexicana ²⁴⁺⁷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
 #EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Como Dice el Dicho ²⁴⁺⁷
 https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
@@ -1516,20 +1516,6 @@ https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Ft2TgqM/Tlnovelas-logo-2021.png"group-title="CANALES 24/7 ᵸᴰ",Tlnovelas ²⁴⁺⁷ (ᵸᴰ)
 http://181.78.105.146:2000/play/a08d/index.m3u8
-
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/vZJvsh3r/Adrenalina-Sports-Network.png",Adrenalina Sports Network
-https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/JhtCf1YD/image.jpg"group-title="DEPORTES" tvg-logo="",Lo Mejor de Liga MX (México / Estados Unidos)
-https://linear-452.frequency.stream/mt/studio/452/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPNᵸᴰ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="DEPORTES", ESPN | HD
-http://181.78.105.146:2000/play/a064/index.m3u8
-
-#EXTINF:-1 tvg-shift="0"tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="DEPORTES",ESPN SUR2
-http://181.78.105.146:2000/play/a063/index.m3u8
-
 
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
@@ -2169,6 +2155,9 @@ http://167.250.135.246:81/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES", 243 | GolTV
 http://38.56.118.88:4000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="DEPORTES", GOLTV
+http://177.53.153.20:8001/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | L1Max" tvg-name=PE | L1Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/320px-L1MAX-LOGO.svg.png" group-title="DEPORTES", 243 | L1Max
 http://177.53.153.20:8001/play/a00h/index.m3u8
@@ -6963,25 +6952,25 @@ http://144.217.70.79/VODS-M/1080P/My%20Little%20Pony%20A%20New%20Generation%2020
 #EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg" group-title="Pelis 3" type="película" , Escape Room (2021) 
 http://144.217.70.79/VODS-M/1080P/Escape%20Room% 202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg" group-title="Pelis 3" type="película" , Space Jam A Nuevo legado (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg" group-title="Pelis 3" type="movie" , Space Jam A Nuevo legado (2021) 
 http://144.217.70.79/VODS-M/1080P/Space%20Jam%20A%20New%20Legacy%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb. org/t/p/w500/lB068qa6bQ0QKYKyC2xnYGvYjl7.jpg" group-title="Pelis 3" type="película", La purga eterna (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb. org/t/p/w500/lB068qa6bQ0QKYKyC2xnYGvYjl7.jpg" group-title="Pelis 3" type="movie", La purga eterna (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Forever% 20Purge%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c962jDNYejdctu7pb8zqS2Miey9.jpg" group-title="Pelis 3" type="película" , Pixie (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c962jDNYejdctu7pb8zqS2Miey9.jpg" group-title="Pelis 3" type="movie" , Pixie (2020) 
 http://144.217.70.79/VODS-M/1080P/Pixie%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5cLg9PP9NBKeIKo1I6VTNfJcN56. jpg" group-title="Pelis 3" type="película" , Intrusión (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5cLg9PP9NBKeIKo1I6VTNfJcN56. jpg" group-title="Pelis 3" type="movie" , Intrusión (2021) 
 http://144.217.70.79/VODS-M/1080P/Intrusion%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/uHTmlcivbPeclEdmtuQg3zOQWPS.jpg" group-title="Pelis 3" type="película", Hard Candy (2005) 
+#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/uHTmlcivbPeclEdmtuQg3zOQWPS.jpg" group-title="Pelis 3" type="movie", Hard Candy (2005) 
 http://144.217.70.79/VODS-M/ 1080P/Hard%20Candy%202005.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="Pelis 3" type=" película", Rápido y Furioso 9 (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="Pelis 3" type="movie", Rápido y Furioso 9 (2021) 
 http://144.217.70.79/VODS-M/1080P/Fast%20and%20Furious%209%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image .tmdb.org/t/p/w500/kqDXj53F9paqVGJLGfHtz7giJ3s.jpg" group-title="Pelis 3" type="película" , Tiburón 3-D (1983) 
+#EXTINF:-1 tvg-logo="https://image .tmdb.org/t/p/w500/kqDXj53F9paqVGJLGfHtz7giJ3s.jpg" group-title="Pelis 3" type="movie" , Tiburón 3-D (1983) 
 http://144.217.70.79/VODS-M/1080P/ Jaws%203-D%201983.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cN3ijEwsn4kBaRuHfcJpAQJbeWe.jpg" group-title="Pelis 3" type=" película", Tiburón 2 (1978) 
@@ -6990,58 +6979,58 @@ http://144.217.70.79/VODS-M/1080P/Jaws%202%201978.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/kGiaOztahZV2x7bil7sbk7fb6ob.jpg" group-title="Pelis 3" type="película" , Tiburón La Venganza (1987) 
 http://144.217.70.79/VODS-M/1080P/Jaws%20The%20Revenge%201987.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg" group-title="Pelis 3" type="película" , Tiburón (1975) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg" group-title="Pelis 3" type="movie" , Tiburón (1975) 
 http://144.217.70.79/VODS-M/1080P/Jaws%201975.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qX3AuVJrx8flXjYnzeFUJtPfg4o.jpg" group-title="Pelis 3" type="película" , El Internship (2013) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qX3AuVJrx8flXjYnzeFUJtPfg4o.jpg" group-title="Pelis 3" type="movie" , El Internship (2013) 
 http://144.217.70.79/VODS-M/1080P/The%20Internship%202013.mkv 
 
-#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/41qVwAz4ZCc8g7YQETQih8fpB8q.jpg" group-title="Pelis 3" type="película", Miradas que matan (2020) 
+#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/41qVwAz4ZCc8g7YQETQih8fpB8q.jpg" group-title="Pelis 3" type="movie", Miradas que matan (2020) 
 http://144.217.70.79/ VODS-M/1080P/Looks%20That%20Kill%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AkfXNOeKgJSOD08StGd0599auiZ.jpg" group-title=" Pelis 3" type="película", Pequeños Gigantes (1994) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AkfXNOeKgJSOD08StGd0599auiZ.jpg" group-title=" Pelis 3" type="movie", Pequeños Gigantes (1994) 
 http://144.217.70.79/VODS-M/1080P/Little%20Giants%201994.mkv 
 
 #EXTINF:-1 tvg-logo="https://imagen .tmdb.org/t/p/w500/3aNlOIFlGOnIzxqvAWpgm5Sly1H.jpg" group-title="Pelis 3" type="movie", Juego más peligroso (2020) 
 http://144.217.70.79/VODS-M/1080P/Most %20Dangerous%20Game%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ol0DSLOIN8Rq1BcWDTsk6NNwas6.jpg" group-title="Pelis 3" type="película " , El cazador de cabezas (2018) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ol0DSLOIN8Rq1BcWDTsk6NNwas6.jpg" group-title="Pelis 3" type="movie" , El cazador de cabezas (2018) 
 http://144.217.70.79/VODS-M/1080P/The%20Head%20Hunter%202018.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org /t/p/w500/3176xH21fSetstKpEtAD1giHbyT.jpg" group-title="Pelis 3" type="movie" , Sinvergüenzas sucios y podridos (1988) 
 http://144.217.70.79/VODS-M/1080P/Dirty%20Rotten%20Scoundrels %201988.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d2aGQwebCkXqNqOVYGqOzPhguCa.jpg" group-title="Pelis 3" type="película" , El Padre Quién mueve montañas (Tata muta muntii) (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d2aGQwebCkXqNqOVYGqOzPhguCa.jpg" group-title="Pelis 3" type="movie" , El Padre Quién mueve montañas (Tata muta muntii) (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Father%20Who%20Moves%20Mountains%20(Tata%20muta%20muntii)%202021.mkv 
 
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg" group-title="Pelis 3" type="película", El bebé jefazo y la empresa familiar (2021) 
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg" group-title="Pelis 3" type="movie", El bebé jefazo y la empresa familiar (2021) 
 http ://144.217.70.79/VODS-M/1080P/The%20Boss%20Baby%20Family%20Business%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/ysJte1iqN8pFQ470tumnViB1wHP.jpg" group-title="Pelis 3" type="película" , Nightbooks (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/ysJte1iqN8pFQ470tumnViB1wHP.jpg" group-title="Pelis 3" type="movie" , Nightbooks (2021) 
 http://144.217.70.79/VODS-M/1080P/Nightbooks%202021.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/uaJmqZxwAsdFLLjPGH5DzIEnbpj.jpg" group-title="Pelis 3" type="película", Cuatro buenos días (2020) 
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/uaJmqZxwAsdFLLjPGH5DzIEnbpj.jpg" group-title="Pelis 3" type="movie", Cuatro buenos días (2020) 
 http://144.217.70.79 /VODS-M/1080P/Four%20Good%20Days%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oP53PyexPlQd1xDt8kkvX5LdQdT.jpg" group-title= "Pelis 3" type="película", Juego de espías (2001) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oP53PyexPlQd1xDt8kkvX5LdQdT.jpg" group-title= "Pelis 3" type="movie", Juego de espías (2001) 
 http://144.217.70.79/VODS-M/1080P/Spy%20Game%202001.mkv 
 
 #EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/rlQJnQfPgaSGQtyMw35VOIqoIsj.jpg" group-title="Pelis 3" type="movie", Directamente salido de la nada Scooby-Doo se encuentra con Coraje, el perro cobarde (2021) 
 http://144.217. 70.79/VODS-M/1080P/Straight%20Outta%20Nowhere%20Scooby-Doo%20Meets%20Courage%20the%20Cowardly%20Dog%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org /t/p/w500/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" group-title="Pelis 3" type="película" , Kate (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org /t/p/w500/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" group-title="Pelis 3" type="movie" , Kate (2021) 
 http://144.217.70.79/VODS-M/1080P/Kate%202021.mkv 
 
-#EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg" group-title="Pelis 3" type="película", Los Voyeurs (2021) 
+#EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg" group-title="Pelis 3" type="movie", Los Voyeurs (2021) 
 http:/ /144.217.70.79/VODS-M/1080P/The%20Voyeurs%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ucDrOXUrVnr9X3ZmXP2Q68HDIHr.jpg" grupo- title="Pelis 3" type="película" , El jinete del dragón (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ucDrOXUrVnr9X3ZmXP2Q68HDIHr.jpg" grupo- title="Pelis 3" type="movie" , El jinete del dragón (2020) 
 http://144.217.70.79/VODS-M/1080P/Dragon%20Rider%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/dmswSI4RZ27MmYQFr5SMddxGdKf.jpg" group-title="Pelis 3" type="película" , Paul (2011) 
+#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/dmswSI4RZ27MmYQFr5SMddxGdKf.jpg" group-title="Pelis 3" type="movie" , Paul (2011) 
 http://144.217.70.79/VODS-M/1080P/ Paul%202011.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g1OngP0vWRGrafk99vBgz6i4Xln.jpg" group-title="Pelis 3" type="película" , JJ Plus E (Vinterviken) (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g1OngP0vWRGrafk99vBgz6i4Xln.jpg" group-title="Pelis 3" type="movie" , JJ Plus E (Vinterviken) (2021) 
 http://144.217.70.79/VODS-M/1080P/JJ%20Plus%20E%20(Vinterviken)%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/ijpRQOwZzGy0vb3Uqmk2Naug1C0.jpg" group-title="Pelis 3" type="movie" , La Serie Divergente Leal (2016) 
@@ -7050,227 +7039,227 @@ http://144.217.70.79/VODS-M/1080P /The%20Divergent%20Series%20Allegiant%202016.m
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dP5Fb6YRfzmCQtRbHOr2kO7tJW9.jpg" group-title="Pelis 3" type="movie", La serie Divergente Insurgente (2015) 
 http://144.217.70.79/VODS-M/1080P/The%20Divergent%20Series%20Insurgent%202015.mkv 
 
-#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/pR505fBCoezKBeImYV3cdQEejRo.jpg" group-title="Pelis 3" type="película" , El Divergente (2014) 
+#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/pR505fBCoezKBeImYV3cdQEejRo.jpg" group-title="Pelis 3" type="movie" , El Divergente (2014) 
 http://144.217.70.79/VODS-M/1080P /The%20Divergent%202014.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v1Wj5lzvsvFbXHdrmYGdXL10Q73.jpg" group-title="Pelis 3" type="película ", Viuda Negra (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v1Wj5lzvsvFbXHdrmYGdXL10Q73.jpg" group-title="Pelis 3" type="movie", Viuda Negra (2021) 
 http://144.217.70.79/VODS-M/1080P/Black%20Widow%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/ p/w500/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg" group-title="Pelis 3" type="movie" , El tesoro de la Sierra Madre (1948) 
 http://144.217.70.79/VODS-M/1080P/The%20Treasure%20of %20the%20Sierra%20Madre%201948.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg" group-title="Pelis 3" type= "película", Escape Room (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg" group-title="Pelis 3" type= "movie", Escape Room (2019) 
 http://144.217.70.79/VODS-M/1080P/Escape%20Room%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/ t/p/w500/xLZQdhtdQasK2LwD86xhwe19pYG.jpg" group-title="Pelis 3" type="película" , Vuelo (2012) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/ t/p/w500/xLZQdhtdQasK2LwD86xhwe19pYG.jpg" group-title="Pelis 3" type="movie" , Vuelo (2012) 
 http://144.217.70.79/VODS-M/1080P/Flight%202012.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lhkfSDKWvu6fX9LSyVaEklaLNZP.jpg" group-title="Pelis 3 " type="movie", Durmiendo con el enemigo (1991) 
 http://144.217.70.79/VODS-M/1080P/Sleeping%20with%20the%20Enemy%201991.mkv 
 
 
-#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/5UsK3grJvtQrtzEgqNlDljJW96w.jpg" group-title="Pelis 3" type="película" , Batman v Superman El amanecer de la justicia (2016) 
+#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/5UsK3grJvtQrtzEgqNlDljJW96w.jpg" group-title="Pelis 3" type="movie" , Batman v Superman El amanecer de la justicia (2016) 
 http://144.217.70.79/ VODS-M/1080P/Batman%20v%20Superman%20Dawn%20of%20Justice%202016.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1bkcOEt4zvc5tBl6xFxTbkSqhEQ.jpg "group-title="Pelis 3" type="movie", Más allá de la fiesta (2021) 
 http://144.217.70.79/VODS-M/1080P/Afterlife%20of%20the%20Party%202021.mkv 
 
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/uuHznp56XCL8gcQI01FoG8csjja.jpg" group-title="Pelis 3" type="película", Borde del mundo (2021) 
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/uuHznp56XCL8gcQI01FoG8csjja.jpg" group-title="Pelis 3" type="movie", Borde del mundo (2021) 
 http: //144.217.70.79/VODS-M/1080P/Edge%20of%20the%20World%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yqaKkARc9Ku8mIENQt8bGVHaowJ .jpg" group-title="Pelis 3" type="película" , El paciente inglés (1996) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yqaKkARc9Ku8mIENQt8bGVHaowJ .jpg" group-title="Pelis 3" type="movie" , El paciente inglés (1996) 
 http://144.217.70.79/VODS-M/1080P/The%20English%20Patient%201996.mkv 
 
-#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/4kqH4d9FBQv5Sel39Ns7TMd13RT.jpg" group-title="Pelis 3" type="película", Cenicienta (2021) 
+#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/4kqH4d9FBQv5Sel39Ns7TMd13RT.jpg" group-title="Pelis 3" type="movie", Cenicienta (2021) 
 http://144.217. 70.79/VODS-M/1080P/Cenicienta%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aIY2QF211NLB1AOjZPFImusCLI1.jpg" group-title="Pelis 3 " type="película", 12 poderosos huérfanos (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aIY2QF211NLB1AOjZPFImusCLI1.jpg" group-title="Pelis 3 " type="movie", 12 poderosos huérfanos (2021) 
 http://144.217.70.79/VODS-M/1080P/12%20Mighty%20Orphans%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/1fBnyO3SbNBplck45js6O4pQaLw.jpg" group-title="Pelis 3" type="película" , La mano que mece la cuna (1992) 
+#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/1fBnyO3SbNBplck45js6O4pQaLw.jpg" group-title="Pelis 3" type="movie" , La mano que mece la cuna (1992) 
 http://144.217.70.79/VODS-M /1080P/The%20Hand%20that%20Rocks%20the%20Cradle%201992.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n4cdJ0Wqxb7C0HmZbcaC4eYnkIf.jpg" grupo- title="Pelis 3" type="película" , Los ángeles de Charlie a todo gas (2003) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n4cdJ0Wqxb7C0HmZbcaC4eYnkIf.jpg" grupo- title="Pelis 3" type="movie" , Los ángeles de Charlie a todo gas (2003) 
 http://144.217.70.79/VODS-M/1080P/Charlies%20Angels%20Full%20Throttle%202003.mkv 
 
-#EXTINF:-1 tvg -logo="https://image.tmdb.org/t/p/w500/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg" group-title="Pelis 3" type="película", Los ángeles de Charlie (2000) 
+#EXTINF:-1 tvg -logo="https://image.tmdb.org/t/p/w500/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg" group-title="Pelis 3" type="movie", Los ángeles de Charlie (2000) 
 http://144.217.70.79 /VODS-M/1080P/Charlies%20Angels%202000.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg" group-title="Pelis 3" type="película", Los ángeles de Charlie (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg" group-title="Pelis 3" type="movie", Los ángeles de Charlie (2019) 
 http://144.217.70.79/VODS-M/1080P/Charlies%20Angels%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image. tmdb.org/t/p/w500/f6Lb4bpUW2AJW42Hpnix2533RKU.jpg" group-title="Pelis 3" type="película" , Tombstone (1993) 
+#EXTINF:-1 tvg-logo="https://image. tmdb.org/t/p/w500/f6Lb4bpUW2AJW42Hpnix2533RKU.jpg" group-title="Pelis 3" type="movie" , Tombstone (1993) 
 http://144.217.70.79/VODS-M/1080P/Tombstone%201993.mkv 
 
-#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/iGzENlBPYJEFWZnye4t3nqWSSp1.jpg" group-title="Pelis 3" type="película", Hidalgo (2004) 
+#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/iGzENlBPYJEFWZnye4t3nqWSSp1.jpg" group-title="Pelis 3" type="movie", Hidalgo (2004) 
 http://144.217.70.79/VODS-M/1080P /Hidalgo%202004.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vP1UnkIG5oBAWdTZho3yeDmPH00.jpg" group-title="Pelis 3" type="película" , Liga Mayor 2 (1994) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vP1UnkIG5oBAWdTZho3yeDmPH00.jpg" group-title="Pelis 3" type="movie" , Liga Mayor 2 (1994) 
 http://144.217.70.79/VODS-M/1080P/Major%20League%202%201994.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/o8uO64psLnagA0urtVxMFBNERVr.jpg" group-title="Pelis 3" type="película" , Liga Mayor (1989) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/o8uO64psLnagA0urtVxMFBNERVr.jpg" group-title="Pelis 3" type="movie" , Liga Mayor (1989) 
 http://144.217.70.79/VODS-M/1080P/Major%20League%201989.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tFnTds88mCuLcLPBseK1kF2E3qv.jpg" group-title="Pelis 3" type="película" , Pequeña Miss Sunshine (2006) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tFnTds88mCuLcLPBseK1kF2E3qv.jpg" group-title="Pelis 3" type="movie" , Pequeña Miss Sunshine (2006) 
 http ://144.217.70.79/VODS-M/1080P/Little%20Miss%20Sunshine%202006.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5YHjyjd2N0ZXcnGuB8G1nIa6h9t. jpg" group-title="Pelis 3" type="película" , Arctic Dogs (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5YHjyjd2N0ZXcnGuB8G1nIa6h9t. jpg" group-title="Pelis 3" type="movie" , Arctic Dogs (2019) 
 http://144.217.70.79/VODS-M/1080P/Arctic%20Dogs%202019.mkv 
 
-#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/tM0hpWw3GONam6TKcMMciecHjhT.jpg" group-title="Pelis 3" type="película" , El chico de al lado (2015) 
+#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/tM0hpWw3GONam6TKcMMciecHjhT.jpg" group-title="Pelis 3" type="movie" , El chico de al lado (2015) 
 http://144.217.70.79 /VODS-M/1080P/The%20Boy%20Next%20Door%202015.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nJJrceb2xHGIA0irADX0JvWSIHT.jpg" grupo- title="Pelis 3" type="película" , El espía de al lado (2010) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nJJrceb2xHGIA0irADX0JvWSIHT.jpg" grupo- title="Pelis 3" type="movie" , El espía de al lado (2010) 
 http://144.217.70.79/VODS-M/1080P/The%20Spy%20Next%20Door%202010.mkv 
 
-#EXTINF:-1 tvg -logo="https://image.tmdb.org/t/p/w500/gntsO8yN1xiFp1CldoJkk0jzxh7.jpg" group-title="Pelis 3" type="película" , La Patrulla Fronteriza Pastora (2008) 
+#EXTINF:-1 tvg -logo="https://image.tmdb.org/t/p/w500/gntsO8yN1xiFp1CldoJkk0jzxh7.jpg" group-title="Pelis 3" type="movie" , La Patrulla Fronteriza Pastora (2008) 
 http://144.217 .70.79/VODS-M/1080P/The%20Shepherd%20Border%20Patrol%202008.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg" group-title="Pelis 3" type="película" , En las alturas (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg" group-title="Pelis 3" type="movie" , En las alturas (2021) 
 http://144.217.70.79/VODS-M/1080P/In%20the%20Heights%202021.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/uTgZuqUQbaCB6Wfk03N8IUEuzQf.jpg" group-title="Pelis 3" type="película", Amigos de vacaciones (2021) 
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/uTgZuqUQbaCB6Wfk03N8IUEuzQf.jpg" group-title="Pelis 3" type="movie", Amigos de vacaciones (2021) 
 http://144.217.70.79/ VODS-M/1080P/Vacation%20Friends%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg" group-title="Pelis 3 " type="movie", Spider-Man Into the Spider-Verse (2018) 
 http://144.217.70.79/VODS-M/1080P/Spider-Man%20Into%20the%20Spider-Verse%202018.mkv 
 
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg" group-title="Pelis 3" type="película" , Spider-Man lejos de casa (2019) 
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg" group-title="Pelis 3" type="movie" , Spider-Man lejos de casa (2019) 
 http://144.217.70.79/VODS-M/1080P/Spider-Man%20Far%20from%20Home%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="Pelis 3" type="película" , Spider-Man Homecoming (2017) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="Pelis 3" type="movie" , Spider-Man Homecoming (2017) 
 http://144.217.70.79/VODS-M/1080P/Spider-Man%20Homecoming%202017.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/mvLYHpJCFK0gur7mlrLMA8z2a9F.jpg" group-title="Pelis 3" type="película", Crisis (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/mvLYHpJCFK0gur7mlrLMA8z2a9F.jpg" group-title="Pelis 3" type="movie", Crisis (2021) 
 http://144.217.70.79/VODS-M/1080P/Crisis%202021.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/hqqEHkLUdOyoDYcvXi0lUEeQ748.jpg" group-title="Pelis 3" type="película", Realmente amo (2020) 
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/hqqEHkLUdOyoDYcvXi0lUEeQ748.jpg" group-title="Pelis 3" type="movie", Realmente amo (2020) 
 http://144.217.70.79/ VODS-M/1080P/Really%20Love%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jYnedFgdnN62QXE8HAPVtQKNFFm.jpg" group-title="Pelis 3 " type="película", Las viejas costumbres (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jYnedFgdnN62QXE8HAPVtQKNFFm.jpg" group-title="Pelis 3 " type="movie", Las viejas costumbres (2020) 
 http://144.217.70.79/VODS-M/1080P/The%20Old%20Ways%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/1HcOyMODYZXnncMikfhYkw3x2ss.jpg" group-title="Pelis 3" type="película" , Tower Heist (2011) 
+#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/1HcOyMODYZXnncMikfhYkw3x2ss.jpg" group-title="Pelis 3" type="movie" , Tower Heist (2011) 
 http://144.217.70.79/VODS-M/1080P/Tower %20Heist%202011.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eGxaRbDfxBWPysoxkOfYgkwflxJ.jpg" group-title="Pelis 3" type="película" , Buena suerte, Chuck (2007) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eGxaRbDfxBWPysoxkOfYgkwflxJ.jpg" group-title="Pelis 3" type="movie" , Buena suerte, Chuck (2007) 
 http://144.217.70.79/VODS-M/1080P/Good%20Luck%20Chuck%202007.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg" group-title="Pelis 3" type="película" , El sorprendente Hombre Araña 2 El ascenso del Electro (2014) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg" group-title="Pelis 3" type="movie" , El sorprendente Hombre Araña 2 El ascenso del Electro (2014) 
 http://144.217.70.79/VODS-M/1080P/The% 20Amazing%20Spider%20Man%202%20Rise%20of%20Electro%202014.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" título del grupo ="Pelis 3" tipo="película" , Spider-Man 3 (2007) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" título del grupo ="Pelis 3" tipo="movie" , Spider-Man 3 (2007) 
 http://144.217.70.79/VODS-M/1080P/Spider-Man%203%202007.mkv 
 
-#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg" group-title="Pelis 3" type="película" , Spider-Man 2 (2004) 
+#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg" group-title="Pelis 3" type="movie" , Spider-Man 2 (2004) 
 http://144.217.70.79/ VODS-M/1080P/Spider-Man%202%202004.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg" group-title=" Pelis 3" type="película" , Spider-Man (2002) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg" group-title=" Pelis 3" type="movie" , Spider-Man (2002) 
 http://144.217.70.79/VODS-M/1080P/Spider-Man%202002.mkv 
 
-#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/jIfkQNARYyERqRAq1p1c8xgePp4.jpg" group-title="Pelis 3" type="película" , El sorprendente Hombre Araña (2012) 
+#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/jIfkQNARYyERqRAq1p1c8xgePp4.jpg" group-title="Pelis 3" type="movie" , El sorprendente Hombre Araña (2012) 
 http://144.217.70.79/VODS-M/ 1080P/El%20Amazing%20Spider-Man%202012.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg" group-title="Pelis 3" type="película" , La pesadilla del lobo de Witcher (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg" group-title="Pelis 3" type="movie" , La pesadilla del lobo de Witcher (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Witcher%20Nightmare%20of%20the%20Wolf %202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wJkkkG4ditqNzlua0oJzoaICGiz.jpg" group-title="Pelis 3" type="película" , Dan in La vida real (2007) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wJkkkG4ditqNzlua0oJzoaICGiz.jpg" group-title="Pelis 3" type="movie" , Dan in La vida real (2007) 
 http://144.217.70.79/VODS-M/1080P/Dan%20in%20Real%20Life%202007.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/ t/p/w500/q4WaFHk9Vp1poc88X1szwFRtYc5.jpg" group-title="Pelis 3" type="película" , Espíritu Indómito (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/ t/p/w500/q4WaFHk9Vp1poc88X1szwFRtYc5.jpg" group-title="Pelis 3" type="movie" , Espíritu Indómito (2021) 
 http://144.217.70.79/VODS-M/1080P/Spirit%20Untamed%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg" group-title="Pelis 3" type="película" , Iron Man 3 (2013) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg" group-title="Pelis 3" type="movie" , Iron Man 3 (2013) 
 http://144.217.70.79/VODS-M/1080P/Iron%20Man%203%202013.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9 .jpg" group-title="Pelis 3" type="película" , Iron Man 2 (2010) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9 .jpg" group-title="Pelis 3" type="movie" , Iron Man 2 (2010) 
 http://144.217.70.79/VODS-M/1080P/Iron%20Man%202%202010.mkv 
 
-#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg" group-title="Pelis 3" type="película" , Iron Man (2008) 
+#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg" group-title="Pelis 3" type="movie" , Iron Man (2008) 
 http://144.217 .70.79/VODS-M/1080P/Iron%20Man%202008.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uOCIrFOT4U9QXML3SLlpCxGs7BV.jpg" título-grupo= "Pelis 3" tipo="película", Línea de tiempo (2003) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uOCIrFOT4U9QXML3SLlpCxGs7BV.jpg" título-grupo= "Pelis 3" tipo="movie", Línea de tiempo (2003) 
 http://144.217.70.79/VODS-M/1080P/Timeline%202003.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/2sfmqtBvCvI9s3uMRLTLMo6QtVi.jpg" group-title="Pelis 3" type="película", Memorias de un asesino Las cintas de Nilsen (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/2sfmqtBvCvI9s3uMRLTLMo6QtVi.jpg" group-title="Pelis 3" type="movie", Memorias de un asesino Las cintas de Nilsen (2021) 
 http://144.217.70.79/VODS-M/1080P /Memories%20of%20a%20Murderer%20The%20Nilsen%20Tapes%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fptnZJbLzKUHeNlYrAynbyoL5YJ.jpg" grupo- title="Pelis 3" type="película" , Los invisibles (2007) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fptnZJbLzKUHeNlYrAynbyoL5YJ.jpg" grupo- title="Pelis 3" type="movie" , Los invisibles (2007) 
 http://144.217.70.79/VODS-M/1080P/The%20Invisible%202007.mkv 
 
-#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/sYjpJZEdwELjdHy4OVzazeJVT0z.jpg" group-title="Pelis 3" type="película" , Predestinación (2014) 
+#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/sYjpJZEdwELjdHy4OVzazeJVT0z.jpg" group-title="Pelis 3" type="movie" , Predestinación (2014) 
 http://144.217.70.79/VODS-M/1080P/ Predestination%202014.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ySUwDRDEn01lKIMPQorpFCMLWqE.jpg" group-title="Pelis 3" type="película" , Irrastreable (2008) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ySUwDRDEn01lKIMPQorpFCMLWqE.jpg" group-title="Pelis 3" type="movie" , Irrastreable (2008) 
 http://144.217.70.79/VODS-M/1080P/Untraceable%202008.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mab5wPeGVjbMyYMzyzfdKKnG9cl. jpg" group-title="Pelis 3" type="movie", La película The Loud House (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Loud%20House%20Movie%202021.mkv 
 
-#EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/cP7odDzzFBD9ycxj2laTeFWGLjD.jpg" group-title="Pelis 3" type="película" , Dulce Niña (2021) 
+#EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/cP7odDzzFBD9ycxj2laTeFWGLjD.jpg" group-title="Pelis 3" type="movie" , Dulce Niña (2021) 
 http://144.217.70.79/VODS-M/1080P/Sweet%20Girl%202021.mkv 
 
-#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/zFIjKtZrzhmc7HecdFXXjsLR2Ig.jpg" group-title="Pelis 3" type="película" , El Mensajero (Ironbark) (2020) 
+#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/zFIjKtZrzhmc7HecdFXXjsLR2Ig.jpg" group-title="Pelis 3" type="movie" , El Mensajero (Ironbark) (2020) 
 http://144.217. 70.79/VODS-M/1080P/The%20Courier%20(Ironbark)%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/82qQAp7rcAwVnW12xbkVImp0unP.jpg" group-title="Pelis 3" type="película" , Villanos (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/82qQAp7rcAwVnW12xbkVImp0unP.jpg" group-title="Pelis 3" type="movie" , Villanos (2019) 
 http://144.217.70.79/VODS-M/1080P/Villains%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https:/ /image.tmdb.org/t/p/w500/fxfEvfG1wRvGu0LKinUxp13gpoh.jpg" group-title="Pelis 3" type="película" , Cherry (2000 (1987) 
+#EXTINF:-1 tvg-logo="https:/ /image.tmdb.org/t/p/w500/fxfEvfG1wRvGu0LKinUxp13gpoh.jpg" group-title="Pelis 3" type="movie" , Cherry (2000 (1987) 
 http://144.217.70.79/VODS-M/1080P /Cherry%202000%201987.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cK5D0ss2LLSZtOZKvgOVTcCdXIE.jpg" group-title="Pelis 3" type="película " , Una llamada para espiar (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cK5D0ss2LLSZtOZKvgOVTcCdXIE.jpg" group-title="Pelis 3" type="movie" , Una llamada para espiar (2019) 
 http://144.217.70.79/VODS-M/1080P/A%20Call%20to%20Spy%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image. tmdb.org/t/p/w500/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg" group-title="Pelis 3" type="película" , El stand de los besos 3 (2021) 
+#EXTINF:-1 tvg-logo="https://image. tmdb.org/t/p/w500/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg" group-title="Pelis 3" type="movie" , El stand de los besos 3 (2021) 
 http://144.217.70.79/VODS-M/1080P/The %20Kissing%20Booth%203%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg" group-title="Pelis 3" tipo= "película", Cruella (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg" group-title="Pelis 3" tipo= "movie", Cruella (2021) 
 http://144.217.70.79/VODS-M/1080P/Cruella%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p /w500/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg" group-title="Pelis 3" type="película" , El recuerdo (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p /w500/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg" group-title="Pelis 3" type="movie" , El recuerdo (2019) 
 http://144.217.70.79/VODS-M/1080P/The%20Souvenir%202019.mkv 
 
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/fctSbleL7ozVcGyC163nPv4arW1.jpg" group-title="Pelis 3" type="película", Monster Hunter Leyendas del gremio (2021) 
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/fctSbleL7ozVcGyC163nPv4arW1.jpg" group-title="Pelis 3" type="movie", Monster Hunter Leyendas del gremio (2021) 
 http://144.217.70.79/VODS-M/1080P/Monster%20Hunter%20Legends%20of%20The%20Guild%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/fzWrrCzRa16v51TXAUuT6Wendw7.jpg" group-title="Pelis 3" type="película" , Seis días y siete noches (1998) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/fzWrrCzRa16v51TXAUuT6Wendw7.jpg" group-title="Pelis 3" type="movie" , Seis días y siete noches (1998) 
 http://144.217.70.79/VODS-M/1080P/Six%20Days%20Seven% 20Nights%201998.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2lla8pP0wNlDAFgV83nZpYMWkeT.jpg" group-title="Pelis 3" type="película", No Cuéntale al alma (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2lla8pP0wNlDAFgV83nZpYMWkeT.jpg" group-title="Pelis 3" type="movie", No Cuéntale al alma (2020) 
 http://144.217.70.79/VODS-M/1080P/Dont%20Tell%20a%20Soul%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org /t/p/w500/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg" group-title="Pelis 3" type="película", Beckett (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org /t/p/w500/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg" group-title="Pelis 3" type="movie", Beckett (2021) 
 http://144.217.70.79/VODS-M/1080P/Beckett%202021.mkv 
 
-#EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/4zFrnSerWypyhypXmifo2Rh1TQx.jpg" group-title="Pelis 3" type="película", CODA (2021) 
+#EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/4zFrnSerWypyhypXmifo2Rh1TQx.jpg" group-title="Pelis 3" type="movie", CODA (2021) 
 http://144.217.70.79/VODS-M/1080P/CODA%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg" título del grupo ="Pelis 3" type="película" , El conjuro El diablo me obligó a hacerlo (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg" título del grupo ="Pelis 3" type="movie" , El conjuro El diablo me obligó a hacerlo (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Conjuring%20The%20Devil%20Made%20Me%20Do% 20It%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="Pelis 3" type="película" , Infinita (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="Pelis 3" type="movie" , Infinita (2021) 
 http://144.217.70.79/VODS-M/1080P/Infinite%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/25oWTCGqIik4gUTMidx3L8DI4Bt. jpg" group-title="Pelis 3" type="película" , Aftermath (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/25oWTCGqIik4gUTMidx3L8DI4Bt. jpg" group-title="Pelis 3" type="movie" , Aftermath (2021) 
 http://144.217.70.79/VODS-M/1080P/Aftermath%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/vpCKOsAmKLD67mwugN6hrPvdPZl.jpg" group-title="Pelis 3" type="película" , Mr Jones (2019) 
+#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/vpCKOsAmKLD67mwugN6hrPvdPZl.jpg" group-title="Pelis 3" type="movie" , Mr Jones (2019) 
 http://144.217.70.79/VODS-M/ 1080P/Mr%20Jones%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7p0O4mKYLIhU2E5Zcq9Z3vOZ4e9.jpg" group-title="Pelis 3" type=" película", Narco Sub (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7p0O4mKYLIhU2E5Zcq9Z3vOZ4e9.jpg" group-title="Pelis 3" type="movie", Narco Sub (2021) 
 http://144.217.70.79/VODS-M/1080P/Narco%20Sub%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg" group-title="Pelis 3" type="película" , Ronin (1998) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg" group-title="Pelis 3" type="movie" , Ronin (1998) 
 http://144.217.70.79/VODS-M/1080P/Ronin%201998.mkv 
 
-#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/A734mQnqdLfraDMJ2Ad1lyE8wwP.jpg" group-title="Pelis 3" type="película" , El Enjambre (La nuee) (2020) 
+#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/A734mQnqdLfraDMJ2Ad1lyE8wwP.jpg" group-title="Pelis 3" type="movie" , El Enjambre (La nuee) (2020) 
 http ://144.217.70.79/VODS-M/1080P/The%20Swarm%20(La%20nuee)%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p /w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg" group-title="Pelis 3" type="película" , Vivo (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p /w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg" group-title="Pelis 3" type="movie" , Vivo (2021) 
 http://144.217.70.79/VODS-M/1080P/Vivo%202021.mkv 
 
-#EXTINF:-1 tvg -logo="https://image.tmdb.org/t/p/w500/i6QFXv4lZyxRMknH0EDkCIz02XP.jpg" group-title="Pelis 3" type="película", Nivel de jefe (2021) 
+#EXTINF:-1 tvg -logo="https://image.tmdb.org/t/p/w500/i6QFXv4lZyxRMknH0EDkCIz02XP.jpg" group-title="Pelis 3" type="movie", Nivel de jefe (2021) 
 http://144.217.70.79 /VODS-M/1080P/Boss%20Level%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6zwGWDpY8Zu0L6W4SYWERBR8Msw.jpg" group-title="Pelis 3" type="movie", El guardaespaldas de la esposa de Hitman (2021) 
@@ -7279,67 +7268,67 @@ http://144.217.70.79/VODS-M/1080P/Hitmans%20Wifes%20Bodyguard%202021.mkv
 #EXTINF:-1 tvg-logo="https:/ /image.tmdb.org/pg" group-title="Pelis 3" type="movie" , Peter Rabbit 2 El fugitivo (2021) 
 http://144.217.70.79/VODS-M/1080P/Peter%20Rabbit%202%20The%20Runaway%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg" group-title="Pelis 3" type="película" , El guardaespaldas de Hitman (2017 ) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg" group-title="Pelis 3" type="movie" , El guardaespaldas de Hitman (2017 ) 
 http://144.217.70.79/VODS-M/1080P/The%20Hitmans%20Bodyguard%202017.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="película" , Roald y Beatrix La cola del ratón curioso (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="movie" , Roald y Beatrix La cola del ratón curioso (2020) 
 http://144.217.70.79/VODS-M/1080P/Roald%20and%20Beatrix%20The%20Tail% 20of%20the%20Curious%20Mouse%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6yOakcmbhgV0PXaUvL6iCzxeeb3.jpg" group-title="Pelis 3" tipo ="película", Apocalipsis ártico (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6yOakcmbhgV0PXaUvL6iCzxeeb3.jpg" group-title="Pelis 3" tipo ="movie", Apocalipsis ártico (2019) 
 http://144.217.70.79/VODS-M/1080P/Arctic%20Apocalypse%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org /t/p/w500/o8CjAqb58H3pmqVN8jysrO3sZXJ.jpg" group-title="Pelis 3" type="película" , Desaparecido en acción 3 Braddock (1988) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org /t/p/w500/o8CjAqb58H3pmqVN8jysrO3sZXJ.jpg" group-title="Pelis 3" type="movie" , Desaparecido en acción 3 Braddock (1988) 
 http://144.217.70.79/VODS-M/1080P/Missing%20in %20Action%203%20Braddock%201988.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o8CjAqb58H3pmqVN8jysrO3sZXJ.jpg" group-title="Pelis 3" type= "película", Desaparecido en acción (1984) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o8CjAqb58H3pmqVN8jysrO3sZXJ.jpg" group-title="Pelis 3" type= "movie", Desaparecido en acción (1984) 
 http://144.217.70.79/VODS-M/1080P/Missing%20in%20Action%201984.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/vOgiL2KQYyTHJ225lT5QB5B9kO0.jpg" group-title="Pelis 3" type="movie" , Desaparecido en acción 2 El comienzo (1985) 
 http://144.217.70.79/VODS-M/1080P/ Missing%20in%20Action%202%20The%20Beginning%201985.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8tABCBpzu3mZbzMB3sRzMEHEvJi.jpg" group-title=" Pelis 3" type="película" , Luca (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8tABCBpzu3mZbzMB3sRzMEHEvJi.jpg" group-title=" Pelis 3" type="movie" , Luca (2021) 
 http://144.217.70.79/VODS-M/1080P/Luca%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ttpKJ7XQxDZV252KNEHXtykYT41.jpg" group-title="Pelis 3" type="película" , El último mercenario (Le dernier mercenaire ) (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ttpKJ7XQxDZV252KNEHXtykYT41.jpg" group-title="Pelis 3" type="movie" , El último mercenario (Le dernier mercenaire ) (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Last%20Mercenary%20(Le%20dernier%20mercenaire)%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/rMoVOCw6DF3zC6hS76ZhQMWiXNX.jpg" group-title="Pelis 3" type="película", Los Jóvenes Titanes van a ver Space Jam (2021) 
+#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/rMoVOCw6DF3zC6hS76ZhQMWiXNX.jpg" group-title="Pelis 3" type="movie", Los Jóvenes Titanes van a ver Space Jam (2021) 
 http://144.217.70.79/VODS-M /1080P/Teen%20Titans%20Go%20See%20Space%20Jam%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dELsdRZDsIvMwVkayiYZszk6V3P.jpg" grupo- title="Pelis 3" type="película", Richie Rich (1994) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dELsdRZDsIvMwVkayiYZszk6V3P.jpg" grupo- title="Pelis 3" type="movie", Richie Rich (1994) 
 http://144.217.70.79/VODS-M/1080P/Richie%20Rich%201994.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg" group-title=" Pelis 3" type="película" , Bartkowiak (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg" group-title=" Pelis 3" type="movie" , Bartkowiak (2021) 
 http://144.217.70.79/VODS-M/1080P/Bartkowiak%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb. org/t/p/w500/3xFxGodKPMFLheS8rujFSmLfcq4.jpg" group-title="Pelis 3" type="película", Puente a Terabithia (2007) 
+#EXTINF:-1 tvg-logo="https://image.tmdb. org/t/p/w500/3xFxGodKPMFLheS8rujFSmLfcq4.jpg" group-title="Pelis 3" type="movie", Puente a Terabithia (2007) 
 http://144.217.70.79/VODS-M/1080P/Bridge%20to% 20Terabithia%202007.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMND7RVCyke2m2TCZeTviKbBIki.jpg" group-title="Pelis 3" type="película" , La Director de orquesta (2018) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMND7RVCyke2m2TCZeTviKbBIki.jpg" group-title="Pelis 3" type="movie" , La Director de orquesta (2018) 
 http://144.217.70.79/VODS-M/1080P/The%20Conductor%202018.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500 /h6NYfVUyM6CDURtZSnBpz647Ldd.jpg" group-title="Pelis 3" type="película" , Animales fantásticos y dónde encontrarlos (2016) http://144.217.70.79/VODS-M/1080P/Fantastic%20Beasts%20and%20Where %20to%20Find%20Them%202016.mkv #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg" group-title="Pelis 3" type= "pelicula", Animales Fantásticos Los Crímenes de Grindelwald (2018) http://144.217.70.79/VODS-M/1080P/Fantastic%20Beasts%20The%20Crimes%20of%20Grindelwald%202018.mkv #EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/oeMpEsjmiT9PEJbRM1Fm7TZ1dE0.jpg" group-title="Pelis 3" type="película" , Los Cuatro Fantásticos (2015) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500 /h6NYfVUyM6CDURtZSnBpz647Ldd.jpg" group-title="Pelis 3" type="movie" , Animales fantásticos y dónde encontrarlos (2016) http://144.217.70.79/VODS-M/1080P/Fantastic%20Beasts%20and%20Where %20to%20Find%20Them%202016.mkv #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg" group-title="Pelis 3" type= "pelicula", Animales Fantásticos Los Crímenes de Grindelwald (2018) http://144.217.70.79/VODS-M/1080P/Fantastic%20Beasts%20The%20Crimes%20of%20Grindelwald%202018.mkv #EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/oeMpEsjmiT9PEJbRM1Fm7TZ1dE0.jpg" group-title="Pelis 3" type="película" , Los Cuatro Fantásticos (2015) 
 http://144.217.70.79/VODS -M/1080P/Fantastic%20Four%202015.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9wRfzTcMyyzkQxVDqBHv8RwuZOv.jpg" group-title="Pelis 3" type="movie", Los 4 Fantásticos: El ascenso de Silver Surfer (2007) 
 http://144.217.70.79/VODS-M/1080P/Fantastic%204%20Rise%20of%20the%20Silver%20Surfer%202007.mkv 
 
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/sQckQRt17VaWbo39GIu0TMOiszq.jpg" group-title="Pelis 3" type="película", 28 días después (2002) 
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/sQckQRt17VaWbo39GIu0TMOiszq.jpg" group-title="Pelis 3" type="movie", 28 días después (2002) 
 http:/ /144.217.70.79/VODS-M/1080P/28%20Days%20Later%202002.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q1MNlZYqhoD4U7sd7pjxD6SUf4z.jpg" group-title="Pelis 3" type="película", Corazones químicos (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q1MNlZYqhoD4U7sd7pjxD6SUf4z.jpg" group-title="Pelis 3" type="movie", Corazones químicos (2020) 
 http://144.217.70.79/VODS-M/1080P/Chemical%20Hearts%202020.mkv 
 
-#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/i1U46OwMc6vlm7OoSUKfqUH615e.jpg" group-title="Pelis 3" type="película", Francotirador americano (2014) 
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/i1U46OwMc6vlm7OoSUKfqUH615e.jpg" group-title="Pelis 3" type="movie", Francotirador americano (2014) 
 http://144.217.70.79/VODS-M /1080P/American%20Sniper%202014.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg" group-title="Pelis 3" tipo= "película", Los que me desean la muerte (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg" group-title="Pelis 3" tipo= "movie", Los que me desean la muerte (2021) 
 http://144.217.70.79/VODS-M/1080P/Those%20Who%20Wish%20Me%20Dead%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg" group-title="Pelis 3" type="película" , Escape de Los Ángeles (1996) 
+#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg" group-title="Pelis 3" type="movie" , Escape de Los Ángeles (1996) 
 http://144.217.70.79/VODS-M/1080P/Escape%20from%20LA%201996.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eTX6hklzFOiEVqVukNCEedZKhix.jpg" group-title="Pelis 3" type="película", Deja Vu (2006) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eTX6hklzFOiEVqVukNCEedZKhix.jpg" group-title="Pelis 3" type="movie", Deja Vu (2006) 
 http://144.217. 70.79/VODS-M/1080P/Deja%20Vu%202006.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bOXk4mF2TjMJVq8DZYUtblKOR92.jpg" group-title=" Pelis 3" type="movie" , Escape de Nueva York (1981) 
@@ -7348,138 +7337,135 @@ http://144.217.70.79/VODS-M/1080P/Escape%20from%20New%20York%201981.mkv
 #EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="movie" , Sense8 Juntos Hasta el Final (Sense8 Amor Vincit Omnia)) 
 http://144.217.70.79 /VODS-M/1080P/Sense8%20Together%20Until%20the%20End%20(Sense8%20Amor%20Vincit%20Omnia).mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/vbwmvaEPg4m2iS7IGwXuvUVAbns.jpg" group-title="Pelis 3" type="película" , El jorobado de Notre Dame II (2002) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/vbwmvaEPg4m2iS7IGwXuvUVAbns.jpg" group-title="Pelis 3" type="movie" , El jorobado de Notre Dame II (2002) 
 http://144.217.70.79/VODS-M/1080P/The%20Hunchback% 20of%20Notre%20Dame%20II%202002.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ds4pCq0GOEarBHI35bYSN2PC0KQ.jpg" group-title="Pelis 3" tipo ="película" , El jorobado de Notre Dame (1996) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ds4pCq0GOEarBHI35bYSN2PC0KQ.jpg" group-title="Pelis 3" tipo ="movie" , El jorobado de Notre Dame (1996) 
 http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%201996.mkv 
 
-#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/eo28MSJ50erE1oPg9XGk8yu9Cn1.jpg" group-title="Pelis 3" type="película" , Hope Springs Eternal (2018) 
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/eo28MSJ50erE1oPg9XGk8yu9Cn1.jpg" group-title="Pelis 3" type="movie" , Hope Springs Eternal (2018) 
 http://144.217.70.79/VODS- M/1080P/Hope%20Springs%20Eternal%202018.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dcbqyycrWA56HXq5lm41HYuED8Y.jpg" group-title="Pelis 3 " type="película", Montecarlo (2011) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dcbqyycrWA56HXq5lm41HYuED8Y.jpg" group-title="Pelis 3 " type="movie", Montecarlo (2011) 
 http://144.217.70.79/VODS-M/1080P/Monte%20Carlo%202011.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/698cbxq0SRwCdOPG5Bwi7JDk12d.jpg" group-title="Pelis 3" type="movie", Dulce hogar Alabama (2002) 
 http://144.217.70.79/VODS-M/1080P/Sweet%20Home %20Alabama%202002.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/csle64zkLObsdRoabreC6bBRxLI.jpg" group-title="Pelis 3" type="película" , Imparable (2010) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/csle64zkLObsdRoabreC6bBRxLI.jpg" group-title="Pelis 3" type="movie" , Imparable (2010) 
 http://144.217.70.79/VODS-M/1080P/Unstoppable%202010.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iMmMxF6f2OonUrXrHKBLSYAhXly .jpg" group-title="Pelis 3" type="película" , El Jefe (2016) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iMmMxF6f2OonUrXrHKBLSYAhXly .jpg" group-title="Pelis 3" type="movie" , El Jefe (2016) 
 http://144.217.70.79/VODS-M/1080P/The%20Boss%202016.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/maUMIZVGs8g1hYtq4dQ9Lg9FtVF.jpg" group-title="Pelis 3" type="película", Segundo Acto (2018) 
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/maUMIZVGs8g1hYtq4dQ9Lg9FtVF.jpg" group-title="Pelis 3" type="movie", Segundo Acto (2018) 
 http://144.217.70.79/ VODS-M/1080P/Second%20Act%202018.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wRMgle7vPFvSMq5R76JhsH54W4S.jpg" group-title="Pelis 3" type="película" , Cenizas en la nieve (2018) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wRMgle7vPFvSMq5R76JhsH54W4S.jpg" group-title="Pelis 3" type="movie" , Cenizas en la nieve (2018) 
 http://144.217.70.79/VODS-M/1080P/Ashes%20in%20the%20Snow%202018.mkv 
 
-#EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/v7aOJKI5vxCHotHvN8O7SR6SpP6.jpg" group-title="Pelis 3" type="película", Cielo rojo sangre (2021) 
+#EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/v7aOJKI5vxCHotHvN8O7SR6SpP6.jpg" group-title="Pelis 3" type="movie", Cielo rojo sangre (2021) 
 http: //144.217.70.79/VODS-M/1080P/Blood%20Red%20Sky%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2CqyEyqvf5Z6jLRahozEV2vpcSS.jpg " group-title="Pelis 3" type="película" , Ciudad de Mentiras (2018) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2CqyEyqvf5Z6jLRahozEV2vpcSS.jpg " group-title="Pelis 3" type="movie" , Ciudad de Mentiras (2018) 
 http://144.217.70.79/VODS-M/1080P/City%20of%20Lies%202018.mkv 
 
-#EXTINF:-1 tvg -logo="https://image.tmdb.org/t/p/w500/piGZDwFW4urLYDWGiYJMrt6hdCS.jpg" group-title="Pelis 3" type="película" , Reino Ashin del Norte (Reino Ashin-jeon) ( 2021) 
+#EXTINF:-1 tvg -logo="https://image.tmdb.org/t/p/w500/piGZDwFW4urLYDWGiYJMrt6hdCS.jpg" group-title="Pelis 3" type="movie" , Reino Ashin del Norte (Reino Ashin-jeon) ( 2021) 
 http://144.217.70.79/VODS-M/1080P/Kingdom%20Ashin%20of%20the%20North%20(Kingdom%20Ashin-jeon)%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg" group-title="Pelis 3" type="película", La última carta de tu amante (2021) 
+#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg" group-title="Pelis 3" type="movie", La última carta de tu amante (2021) 
 http://144.217.70.79/VODS -M/1080P/The%20Last%20Letter%20from%20Your%20Lover%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h4cPVVNPZUHVeoF6dH2grBvSEKs.jpg" group-title="Pelis 3" type="película" , Fiebre del mar (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h4cPVVNPZUHVeoF6dH2grBvSEKs.jpg" group-title="Pelis 3" type="movie" , Fiebre del mar (2019) 
 http://144.217.70.79/VODS-M/1080P/Sea%20Fever%202019.mkv 
 
 #EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/1NBVGBi8Z6MhJBAJ5SuRMqP7o3T.jpg" group-title="Pelis 3" type="movie", Diversión con Dick y Jane (2005) 
 http://144.217.70.79/ VODS-M/1080P/Fun%20with%20Dick%20and%20Jane%202005.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AudA8gnTWSBWXBHSBHnr3HHHUXXM.jpg" grupo -title="Pelis 3" type="película" , El pequeño Nicky (2000) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AudA8gnTWSBWXBHSBHnr3HHHUXXM.jpg" grupo -title="Pelis 3" type="movie" , El pequeño Nicky (2000) 
 http://144.217.70.79/VODS-M/1080P/Little%20Nicky%202000.mkv 
 
-#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg" group-title="Pelis 3" type="película", Trollhunters El ascenso de los titanes (2021) 
+#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg" group-title="Pelis 3" type="movie", Trollhunters El ascenso de los titanes (2021) 
 http://144.217.70.79/VODS -M/1080P/Trollhunters%20Rise%20of%20the%20Titans%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg" grupo- title="Pelis 3" type="película" , Indiana Jones y el Reino de la Calavera de Cristal (2008) http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20and%20the%20Kingdom%20of% 20the%20Crystal%20Skull%202008.mkv 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg" grupo- title="Pelis 3" type="movie" , Indiana Jones y el Reino de la Calavera de Cristal (2008) http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20and%20the%20Kingdom%20of% 20the%20Crystal%20Skull%202008.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg" group-title="Pelis 3" type=" película", Indiana Jones y la última cruzada (1989) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg" group-title="Pelis 3" type="movie", Indiana Jones y la última cruzada (1989) 
 http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20and%20the%20Last%20Crusade%201989.mkv 
 
-#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/3CUUdNP7bHvJ7UT2MiG9iDKIRdu.jpg" group-title="Pelis 3" type="película" , Indiana Jones y el templo maldito (1984) 
+#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/3CUUdNP7bHvJ7UT2MiG9iDKIRdu.jpg" group-title="Pelis 3" type="movie" , Indiana Jones y el templo maldito (1984) 
 http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20and%20the%20Temple% 20of%20Doom%201984.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg" group-title="Pelis 3" type="película" , Indiana Jones En busca del arca perdida (1981) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg" group-title="Pelis 3" type="movie" , Indiana Jones En busca del arca perdida (1981) 
 http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20Raiders%20of%20the%20Lost%20Ark%201981.mkv 
 
-#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/aOg92xVWjBRmALsHCJsz2lWnmsG.jpg" group-title="Pelis 3" type="película", 300 El origen de un imperio (2014) 
+#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/aOg92xVWjBRmALsHCJsz2lWnmsG.jpg" group-title="Pelis 3" type="movie", 300 El origen de un imperio (2014) 
 http://144.217. 70.79/VODS-M/1080P/300%20Rise%20of%20an%20Empire%202014.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9W49fy5G7v9Ed3CXtvMi41YqZtt.jpg "group-title="Pelis 3" type="película", 300 (2006) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9W49fy5G7v9Ed3CXtvMi41YqZtt.jpg "group-title="Pelis 3" type="movie", 300 (2006) 
 http://144.217.70.79/VODS-M/1080P/300%202006.mkv 
 
-#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3.jpg" group-title="Pelis 3" type="película", La ira del hombre (2021) 
+#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3.jpg" group-title="Pelis 3" type="movie", La ira del hombre (2021) 
 http://144.217.70.79/VODS-M/ 1080P/Wrath%20of%20Man%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg" group-title="Pelis 3" tipo ="película", Un lugar tranquilo Parte II (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg" group-title="Pelis 3" tipo ="movie", Un lugar tranquilo Parte II (2021) 
 http://144.217.70.79/VODS-M/1080P/A%20Quiet%20Place%20Part%20II%202021.mkv 
 
-#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/7D1uPIaPu25xx9KxmdmKsh0eXY2.jpg" group-title="Pelis 3" type="película", Siberia (2020) 
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/7D1uPIaPu25xx9KxmdmKsh0eXY2.jpg" group-title="Pelis 3" type="movie", Siberia (2020) 
 http://144.217.70.79/VODS-M/ 1080P/Siberia%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lm3pQ2QoQ16pextRsmnUbG2onES.jpg" group-title="Pelis 3" type="película" , El Padrino Parte III (1990) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lm3pQ2QoQ16pextRsmnUbG2onES.jpg" group-title="Pelis 3" type="movie" , El Padrino Parte III (1990) 
 http://144.217.70.79/VODS-M/1080P/The%20Godfather%20Part%20III%201990.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg" group-title="Pelis 3" type="película" , El Padrino Parte II (1974) 
+#EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg" group-title="Pelis 3" type="movie" , El Padrino Parte II (1974) 
 http://144.217.70.79/VODS-M/1080P/The% 20Godfather%20Part%20II%201974.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="Pelis 3" type=" película", El Padrino (1972) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="Pelis 3" type="movie", El Padrino (1972) 
 http://144.217.70.79/VODS-M/1080P/The%20Godfather%201972.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/c6jgLHaQpdIPH1rC94KkjAqgE7O.jpg" group-title="Pelis 3" type="película" , Juego de la muerte (1978) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/c6jgLHaQpdIPH1rC94KkjAqgE7O.jpg" group-title="Pelis 3" type="movie" , Juego de la muerte (1978) 
 http://144.217.70.79/VODS-M/1080P/Game%20of%20Death%201978.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg" group-title="Pelis 3" type="película" , Space Jam (1996 ) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg" group-title="Pelis 3" type="movie" , Space Jam (1996 ) 
 http://144.217.70.79/VODS-M/1080P/Space%20Jam%201996.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rmEPtz3UfzolIndiana Jones y el templo maldito (1984) 
-http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20and%20the%20Temple%20of%20Doom%201984.mkv 
-
-#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg" group-title="Pelis 3" type="película", Indiana Jones En busca del arca perdida (1981) 
+#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg" group-title="Pelis 3" type="movie", Indiana Jones En busca del arca perdida (1981) 
 http://144.217 .70.79/VODS-M/1080P/Indiana%20Jones%20Raiders%20of%20the%20Lost%20Ark%201981.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/aOg92xVWjBRmALsHCJsz2lWnmsG.jpg" group-title="Pelis 3" type="película", 300 El origen de un imperio (2014) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/aOg92xVWjBRmALsHCJsz2lWnmsG.jpg" group-title="Pelis 3" type="movie", 300 El origen de un imperio (2014) 
 http://144.217.70.79/VODS-M/1080P/300%20Rise%20of%20an% 20Empire%202014.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9W49fy5G7v9Ed3CXtvMi41YqZtt.jpg" group-title="Pelis 3" type="película" , 300 (2006) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9W49fy5G7v9Ed3CXtvMi41YqZtt.jpg" group-title="Pelis 3" type="movie" , 300 (2006) 
 http://144.217.70.79/VODS-M/1080P/300%202006.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3. jpg" group-title="Pelis 3" type="película" , Ira del hombre (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3. jpg" group-title="Pelis 3" type="movie" , Ira del hombre (2021) 
 http://144.217.70.79/VODS-M/1080P/Wrath%20of%20Man%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg" group-title="Pelis 3" type="película", Un lugar en silencio Parte II (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg" group-title="Pelis 3" type="movie", Un lugar en silencio Parte II (2021) 
 http:/ /144.217.70.79/VODS-M/1080P/A%20Quiet%20Place%20Part%20II%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ 7D1uPIaPu25xx9KxmdmKsh0eXY2.jpg" group-title="Pelis 3" type="película", Siberia (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ 7D1uPIaPu25xx9KxmdmKsh0eXY2.jpg" group-title="Pelis 3" type="movie", Siberia (2020) 
 http://144.217.70.79/VODS-M/1080P/Siberia%202020.mkv 
 
-#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/lm3pQ2QoQ16pextRsmnUbG2onES.jpg" group-title="Pelis 3" type="película", El Padrino III (1990) 
+#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/lm3pQ2QoQ16pextRsmnUbG2onES.jpg" group-title="Pelis 3" type="movie, El Padrino III (1990) 
 http://144.217.70.79/ VODS-M/1080P/The%20Godfather%20Part%20III%201990.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg" título del grupo ="Pelis 3" type="película" , El Padrino Parte II (1974) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg" título del grupo ="Pelis 3" type="movie" , El Padrino Parte II (1974) 
 http://144.217.70.79/VODS-M/1080P/The%20Godfather%20Part%20II%201974.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="Pelis 3" type="película" , El Padrino (1972) 
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="Pelis 3" type="movie" , El Padrino (1972) 
 http://144.217.70.79/ VODS-M/1080P/The%20Godfather%201972.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c6jgLHaQpdIPH1rC94KkjAqgE7O.jpg" group-title="Pelis 3 " type="película", Juego de la muerte (1978) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c6jgLHaQpdIPH1rC94KkjAqgE7O.jpg" group-title="Pelis 3 " type="movie", Juego de la muerte (1978) 
 http://144.217.70.79/VODS-M/1080P/Game%20of%20Death%201978.mkv 
 
-#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg" group-title="Pelis 3" type="película", Space Jam (1996) 
+#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg" group-title="Pelis 3" type="movie", Space Jam (1996) 
 http://144.217.70.79/VODS-M/1080P/Space %20Jam%201996.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rmEPtz3UfzolIndiana Jones y el templo maldito (1984) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rmEPtz3Ufzol" group-title="Pelis 3" type="movie",Indiana Jones y el templo maldito (1984) 
 http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20and%20the%20Temple%20of%20Doom%201984.mkv 
 
-#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg" group-title="Pelis 3" type="película", Indiana Jones En busca del arca perdida (1981) 
+#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg" group-title="Pelis 3" type="movie", Indiana Jones En busca del arca perdida (1981) 
 http://144.217 .70.79/VODS-M/1080P/Indiana%20Jones%20Raiders%20of%20the%20Lost%20Ark%201981.mkv 
 
 
@@ -7802,16 +7788,13 @@ http://177.53.153.20:8001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png"group-title="COLOMBIA", RCN CO FHD
 http://177.53.153.20:8001/play/a0c4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="DEPORTES", GOLTV
-http://177.53.153.20:8001/play/a03t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lc.cx/aQwtSL"group-title="DEPORTES", ESPN HD
-http://181.78.105.146:2000/play/a064/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://lc.cx/aQwtSL"group-title="DEPORTES", ESPN HD
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/965.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="DEPORTES", ESPN 2 MX FHD
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPNᵸᴰ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="DEPORTES", ESPN | ᵸᴰ
+http://181.78.105.146:2000/play/a064/index.m3u8
+
+#EXTINF:-1 tvg-shift="0"tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="DEPORTES",ESPN SUR2
 http://181.78.105.146:2000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg"group-title="DEPORTES", ESPN 3 MX HD
@@ -7829,7 +7812,6 @@ http://161.132.108.74:50001/play/a03o/index.m3u8
 http://177.53.153.20:8001/play/a0em/index.m3u8
 
 
-
 #EXTINF:-1group-title="EVENTOS",ORLANDO VS INTER MIAMI
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224543.ts
 
@@ -7842,3 +7824,5 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/384111.m3u8
 
 #EXTINF:-3 tvg-logo="https://i.postimg.cc/3JdM9swv/Gamavisi-n2018new.png" group-title="ECUADOR", GAMAVISION | HD
 http://190.95.220.212:8000/play/a04k/index.m3u8
+
+
