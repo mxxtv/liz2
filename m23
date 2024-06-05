@@ -24,11 +24,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS
-https://live-c.cf.dmcdn.net/sec2(0wVq_kAMEwACXLCZaPx3v9Ot7heIyrShGgnRqPovQc-fK7uLBBBN1MOKlOK8Q97i9ojDjhEJbkzkmS830jckShL0XaZFtgxw_ztAEYkQTIo)/dm/3/x7wijay/d/live-2.m3u8#cell=lcfc
+https://live-c.cf.dmcdn.net/sec2(OYupxBsLz4stAGko9CfL67oiLZRsT-zfpQR-hk0FIi_leovb3JBtRtNxlyIiMTqFN1g4YVqzW4IEGjN2vFUuIXjBBNUzToq70fF84dxPQeg)/dm/3/x7wijay/d/live-2.m3u8#cell=lcfc
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
-https://live-b.cf.dmcdn.net/sec2(c7l9yRBaxfCwppcr47ntCNrNP7CDFh7sO8VONJ3yQcXXlL5B_t0Erjoaedq3ex5Ji8Nqp2dcZ7U-sA6IghurXteG5r0U1lO1xbEhkrMhBGA)/dm/3/x80ac48/d/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(GZLne3YVfY0sVlJEbI4sUlSxOz1875go0n_RuObXsWXH_tGBkEt5mzira6YUxj0tTYNV75LBdAslQILyox31vasADQAi1k5_Ow5luHSwq8M)/dm/3/x80ac48/d/live-3.m3u8#cell=lcfb
 
 #EXTINF:-11 tvg-logo="https://lc.cx/6p7IqW" group-title="ECUADOR", RTU TV | SD
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
@@ -130,7 +129,7 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/chunks.m3u8
 
 #EXTINF:-43 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="BOLIVIA", Pat tv | HD
-https://w8.redpat.tv:7777/play/120/index.m3u8
+https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
 
 #EXTINF:-44 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="PUERTO RICO" ,Telemundo Opcion 1
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -2528,17 +2527,17 @@ https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/chunklist_w9685215
 #EXTINF:-1 tvg-id="BO | Abya Yala TV" tvg-name="BO | Abya Yala TV" tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2023/ 10/cropped-cropped-MOSCA-BLANCA-OK-1-1-308x119.png" group-title="BOLIVIA", 673 | Abya Yala TV || BOLIVIA
 https://master.tucableip.com/abyayalatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BO | Erbol TV" tvg-name="BO | Erbol TV" tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo- principal.png" group-title="BOLIVIA", 674 | Erbol TV || BOLIVIA
-https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://conceptoweb-studio.com/vod/uploads/images/clip_76_1585160272_thumb.jpg" group-title="BOLIVIA", 674 | BOLIVIA TV 7.1 || BOLIVIA
+https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w1759731330.m3u8
 
-#EXTINF:-1 grupo tvg-id="BO | Coral TV" tvg-name="BO | Coral TV" tvg-logo="https://play-lh.googleusercontent.com/4GZtRfAZ36H4pyoxz1htoVE46eRt_M9sj2Y56En4h0Neezca7wFMaX7ec2n9sW5zJZo=s180-rw"- título="BOLIVIA", 675 | Coral TV || BOLIVIA
-https://tv.mediacp.eu:8081/coraltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png"group-title="BOLIVIA", 675 | Unlp TV || BOLIVIA
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 #EXTINF:-1 tvg-id="BO | TV Universitaria" tvg-name="BO | TV Universitaria" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/ 2017/11/logotvu.png" group-title="BOLIVIA", 676 | TV Universitaria || BOLIVIA
 https://video.live.com.bo:3731/live/tvuumsalive.m3u8
 
 #EXTINF:-1 tvg-id="BO | Seo TV" tvg-name="BO | Seo TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv- bo.png" group-title="BOLIVIA", 677 | SeoTV || BOLIVIA
-https://seo.tv.bo/tv/fTV_1FHD.m3u8
+https://seo.tv.bo/tv/ATV3.m3u8
 
 #EXTINF:-1 tvg-id="BO | Univalle TV" tvg-name="BO | Univalle TV" tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/ 2022/10/282564259_10158977843387405_6403480060241523290_n-removebg-preview1-e1654154741392-edited-1.png?w=500&ssl=1" group-title="BOLIVIA", 678 | Univalle TV || BOLIVIA
 https://master.tucableip.com/univalletv/index.m3u8
@@ -2576,8 +2575,8 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/c259ef3a5ff14f8da764c45f1f4cc5b8/m
 #EXTINF:-1 tvg-id="BO | Imperial TV" tvg-name="BO | Imperial TV" tvg-logo="https://play-lh.googleusercontent.com/484nloAxV2ZpMByON_Fd8EML3IsxKlGLWTOLL7leqQjuNGaKoYYQk9WFdayVMXxhqmc" group-title="BOLIVIA", 689 | Imperial Televisión || BOLIVIA
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 
-#EXTINF:-1 tvg-id="BO | EN TV" tvg-name="BO | EN TV" tvg-logo="https://in.tv.bo/wp-content/uploads/2023/06/ cropped-jcjknkl.png.pagespeed.ce.C47TH4N7dK.png" group-title="BOLIVIA", 690 | EN TV || BOLIVIA
-https://solo.disfrutaenlared.com:1936/intv/intv/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | EN TV" tvg-name="BO | EN TV" tvg-logo="https://in.tv.bo/wp-content/uploads/2023/06/ cropped-jcjknkl.png.pagespeed.ce.C47TH4N7dK.png" group-title="BOLIVIA", 690 | Bolivia TV || BOLIVIA
+https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w1759731330.m3u8
 
 #EXTINF:-1 tvg-id="BO | Ayni Televisión" tvg-name="BO | Ayni Televisión" tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM" group-title="BOLIVIA", 691 | Ayni TV || BOLIVIA
 https://stmvideo3.livecastv.com/aynitv/aynitv/playlist.m3u8
@@ -2586,19 +2585,19 @@ https://stmvideo3.livecastv.com/aynitv/aynitv/playlist.m3u8
 http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BO | Neo TV Canal 31" tvg-name="BO | Neo TV Canal 31" tvg-logo="http://www.tucableip.com/canales/neotv.png" título-grupo="BOLIVIA", 693 | Neo TV || BOLIVIA
-https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="BO | Tu TV" tvg-name="BO | Tu TV" tvg-logo="https://yt3.ggpht.com/U47VmnRDhgLjdt3il6T-qGIRgfsdVefCCbhJO6FdtjoRg3wP3a6_Jcg9zKboHqcrpBD-5hwGug=s88-ck- c0x00ffffff-no-rj" group-title="BOLIVIA", 694 | Tu TV || BOLIVIA
-https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3KxjPWGD1nzI19a_T81rVSuxOrvD9kUI3mlP6OeUGKLoxugxyOFxSZuGVehONUGm-oYE2e_A0qC5rjX_9hbfc8HF_e5R4lIHLDZtVkUCxsj1Hij4YZjS4_o2pKmHmdIytXR2Dn5jr58JA/w350-h350-p-k-no-nu/tele+futuro.png" group-title="BOLIVIA", 694 | Telefuturo TV || BOLIVIA
+https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w719910685.m3u8
 
 #EXTINF:-1 tvg-id="BO | Delta Instituto TV" tvg-name="BO | Delta Instituto TV" tvg-logo="https://pbs.twimg.com/media/Fj1NPSYWIAAL6MU?format=png&name= pequeño" group-title="BOLIVIA", 695 | Delta Instituto TV || BOLIVIA
-https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 #EXTINF:-1 tvg-id="BO | Carigso Televisión" tvg-name="BO | Carigso Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs4ChCFlI- i5W3XYw-pFZ6jFR5eEIa--LXALWrzCg4bxt7qtIBOGMoOA4VaoRL76ovO3I&usqp=CAU" group-title="BOLIVIA", 696 | Carigso Televisión || BOLIVIA
 https://vdo.panelchs.com:3236/live/carigsoradiotvlive.m3u8
 
 #EXTINF:-1 tvg-id="BO | Gogoplay TV" tvg-name="BO | Gogoplay TV" tvg-logo="https://latinartv.com/sites/default/files/logos/gogo-play. png" título-grupo="BOLIVIA", 697 | Gogo Play TV || BOLIVIA
-https://250weu.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/gogoplay/index.m3u8
 
 #EXTINF:-1 tvg-id="BO | Programa de TV Oruro" tvg-name="BO | Programa de TV Oruro" tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw=w240- h480-rw" group-title="BOLIVIA", 698 | Programa de Televisión Oruro || BOLIVIA
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
@@ -7822,3 +7821,5 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/384111.m3u8
 
 #EXTINF:-3 tvg-logo="https://i.postimg.cc/3JdM9swv/Gamavisi-n2018new.png" group-title="ECUADOR", GAMAVISION | HD
 http://190.95.220.212:8000/play/a04k/index.m3u8
+
+
