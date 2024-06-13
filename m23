@@ -24,7 +24,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-logo="https://i.imgur.com/okK02EN.png"  group-title="ECUADOR",TC 4HRS
-https://live-b.cf.dmcdn.net/sec2(GhqolItlxR-cDPk55AAn-Umo0BGc5xagRrfKzpCvAfuUEw7oTaHDEsMcnOjcDjHmjRwiVypVt0XE3CG7QVF59kzXIWmoBLAVqb3rzTEMWeA)/dm/3/x7wijay/d/live-2.m3u8
+https://live-b.cf.dmcdn.net/sec2(WYFuz8qOnXtl4fD9Hw_6nVy5FYL7UPPFmYzcn8WoxIcHF5G6fP0ZlDi6FueAdHkTHu3JHkVWK9stWvh6J6YGKoRp8WmWooDPK4AFt6VNhzQ)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 https://live-b.cf.dmcdn.net/sec2(GZLne3YVfY0sVlJEbI4sUlSxOz1875go0n_RuObXsWXH_tGBkEt5mzira6YUxj0tTYNV75LBdAslQILyox31vasADQAi1k5_Ow5luHSwq8M)/dm/3/x80ac48/d/live-3.m3u8#cell=lcfb
@@ -35,8 +35,8 @@ https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-12 tvg-logo="https://lc.cx/hhOju4" group-title="ECUADOR", Asomavision | SD
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
-#EXTINF:-13 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="CINE Y SERIES", Sony Cine | SD
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
+#EXTINF:-13 tvg-logo="https://i.postimg.cc/3JdM9swv/Gamavisi-n2018new.png" group-title="ECUADOR", GAMAVISION | HD
+http://190.95.220.212:8000/play/a04k/index.m3u8
 
 #EXTINF:-14 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Azteca_35_2020.png" group-title="NOVELAS" , A + GATE +2
 https://ch2-tva.duin.dev/hls/0/stream.m3u8
@@ -110,8 +110,8 @@ https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 #EXTINF:-36 tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="DEPORTES", BEIN SPORT
 https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 
-#EXTINF:-37 tvg-logo="https://lc.cx/VRnIpE" group-title="NIÑOS Y ADOLECENTES", Planeta kids
-https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-37 tvg-logo="https://lc.cx/VRnIpE" group-title="NIÑOS Y ADOLECENTES", Planeta de Aventuras
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
 
 #EXTINF:-38 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c619eb44474af2dc9df71538979c2f9.webp" group-title="PERU", ONDA DIGITAL
 https://v4.tustreaming.cl/odtvgo/index.m3u8
@@ -369,7 +369,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
 #EXTINF:-123 tvg-logo="https://i.imgur.com/z7cueNf.png" group-title="MUSICA", Top Latino | SD
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8?tvtokenstarttime=1717437138&tvtokenendtime=1717438938&tvtokenhash=lrCt3KlelrW0NFptGA2ZmxVB821eeVsvQMLtLKAp6vo=
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8?tvtokenstarttime=1718237535&tvtokenendtime=1718239335&tvtokenhash=w2Lz-TPD_Ene5aXY9QjIDLurO8152Nn-6MEDh9X-Ua0=
 
 #EXTINF:-124 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru (Alt) | SD
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -621,7 +621,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w3
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
 #EXTINF:-207 tvg-name="TOP Latino" tvg-logo="https://i.imgur.com/QMt8xxw.png" group-title="MEXICO",TOP Latino
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8?tvtokenstarttime=1718237535&tvtokenendtime=1718239335&tvtokenhash=w2Lz-TPD_Ene5aXY9QjIDLurO8152Nn-6MEDh9X-Ua0=
 
 #EXTINF:-208 tvg-name="Teleritmo" tvg-logo="https://i.imgur.com/jkPslQI.png" group-title="MUSICA",Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -1458,11 +1458,11 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-shift="0"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2p3mRrpdxh9Sw07ybGuvwXFsHCHC5o4TbG7z4b0mJw&s" group-title="ECUADOR",Revry_LatinX
 https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="",Nature Time
-https://linear-530.frequency.stream/mt/studio/530/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="MUSICA"tvg-logo="https://i.imgur.com/pnk4SsI.jpg",VideoPlataforma
 https://stream.oursnetworktv.com/latin/encoder34/playlist.m3u8
+
+#EXTINF:-1 group-title="ECUADOR"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVlEqg0RCXEqIMSuGhc5ZzGqG_DVc8HwfYvg&s",Orbita tv
+https://ssh101-fl.bozztv.com/ssh101/OrbitaFM953/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sicompuebla.mx/wp-content/uploads/2023/08/SICOM-WHT.png"group-title="MEXICO",SICOM Televisión 16.2
 https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/chunklist_w1192708117.m3u8
@@ -1477,38 +1477,38 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612f8b455ed5810007170b
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/CxPQXtDw/STNHP.png" group-title="NOVELAS", SIN TETAS NO HAY PARAÍSO 2²⁴⁺⁷
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bdaa71-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc5aeb38-8de1-4922-821b-78e2296d5daa&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="https://i.postimg.cc/1tkS0LHg/Vecinos-TV-series-logo.png",Vecinos ²⁴⁺⁷
-https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="",Novelisima ²⁴⁺⁷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Amor Bravio ²⁴⁺⁷
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKw5XmFOryjOIHpSLCmLK3f3iSw-AimFNLQ&s",Amor Bravio ²⁴⁺⁷
 https://linear-478.frequency.stream/mt/studio/478/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="https://i.postimg.cc/1R76ntz6/nms.png",Acción Mexicana ²⁴⁺⁷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
-#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Como Dice el Dicho ²⁴⁺⁷
-https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="",Puro Romance ²⁴⁺⁷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 
-#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Teresa ²⁴⁺⁷
-https://linear-342.frequency.stream/mt/studio/342/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="",Canela Telenovelas ²⁴⁺⁷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
-#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",La Fuerza del Destino ²⁴⁺⁷
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="",La Fuerza del Destino ²⁴⁺⁷
 https://linear-480.frequency.stream/mt/studio/480/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Lazos de Amor ²⁴⁺⁷
-https://linear-481.frequency.stream/mt/studio/481/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Novelas Turcas ²⁴⁺⁷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
 #EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="https://i.postimg.cc/L6RtNhhT/p10863241-b-v12-ah.jpg",Mi Corazón es Tuyo ²⁴⁺⁷
 https://linear-482.frequency.stream/mt/studio/482/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="https://i.imgur.com/JquJMTJ.png",La Familia P. Luche ²⁴⁺⁷
-https://linear-311.frequency.stream/mt/studio/311/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Tierra De Amor Y Venganza ²⁴⁺⁷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 
-#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Una Familia de Diez ²⁴⁺⁷
-https://linear-450.frequency.stream/mt/studio/450/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Sony Canal Novelas ²⁴⁺⁷
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
-#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Nosotros los Guapos ²⁴⁺⁷
-https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-id="FlouCine.us",Flou Cine
+https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Ft2TgqM/Tlnovelas-logo-2021.png"group-title="CANALES 24/7 ᵸᴰ",Tlnovelas ²⁴⁺⁷ (ᵸᴰ)
 http://181.78.105.146:2000/play/a08d/index.m3u8
@@ -7777,7 +7777,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/1280px-Tlnovelas_2007_logo.svg.png"group-title="NOVELAS", TLNOVELAS
 http://181.78.105.146:2000/play/a08d/index.m3u8
 
-#EXTINF:-1 grupo-título="COLOMBIA", RB1-Canal Caracol
+#EXTINF:-1 group-title="COLOMBIA", RB1-Canal Caracol
 http://45.179.164.30:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png"group-title="COLOMBIA", RCN CO FHD
@@ -7795,7 +7795,7 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg"group-title="DEPORTES", ESPN 3 MX HD
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="group-title="DEPORTES", ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png"group-title="DEPORTES", ESPN HD
 http://161.132.108.74:50001/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | ESPN 2 HD" tvg-name="USA | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTRBt4ewzEfnY5JKhNPNx0s4TevGJijavKA&usqp=CAU" group-title="DEPORTES", 234 | ESPN 2 HD
@@ -7837,6 +7837,3 @@ http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/152908.ts
 
 #EXTINF:-4 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/384111.m3u8
-
-#EXTINF:-3 tvg-logo="https://i.postimg.cc/3JdM9swv/Gamavisi-n2018new.png" group-title="ECUADOR", GAMAVISION | HD
-http://190.95.220.212:8000/play/a04k/index.m3u8
