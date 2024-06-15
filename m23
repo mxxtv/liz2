@@ -24,7 +24,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-logo="https://i.imgur.com/okK02EN.png"  group-title="ECUADOR",TC 4HRS
-https://live-b.cf.dmcdn.net/sec2(WYFuz8qOnXtl4fD9Hw_6nVy5FYL7UPPFmYzcn8WoxIcHF5G6fP0ZlDi6FueAdHkTHu3JHkVWK9stWvh6J6YGKoRp8WmWooDPK4AFt6VNhzQ)/dm/3/x7wijay/d/live-2.m3u8
+https://live-b.cf.dmcdn.net/sec2(u6HFCyrNo4oPviHOa83IRtk6eE8QH66_cplKydp8pG28N-HZHIODxLcasQ37lh40PpuccyUvE_KAxXWdLuwjgg4_y9_7MmFzlXyQ-Mr1yVw)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 https://live-b.cf.dmcdn.net/sec2(GZLne3YVfY0sVlJEbI4sUlSxOz1875go0n_RuObXsWXH_tGBkEt5mzira6YUxj0tTYNV75LBdAslQILyox31vasADQAi1k5_Ow5luHSwq8M)/dm/3/x80ac48/d/live-3.m3u8#cell=lcfb
@@ -282,7 +282,7 @@ https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 
 #EXTINF:-94 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ATV_HD_2014.svg/revision/latest/scale-to-width-down/279?cb=20210519153124&path-prefix=es" group-title="DEPORTES", ATV |HD
-https://alba-pe-atv-atv.stream.mediatiquestream.com/720p.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-95 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F_XCQDTqz6YHHeduKJ5mgN270K-X6ontv6EjXqCRGw&amp;s" group-title="MEXICO", ALMAYA TV
 https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
@@ -369,7 +369,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
 #EXTINF:-123 tvg-logo="https://i.imgur.com/z7cueNf.png" group-title="MUSICA", Top Latino | SD
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8?tvtokenstarttime=1718237535&tvtokenendtime=1718239335&tvtokenhash=w2Lz-TPD_Ene5aXY9QjIDLurO8152Nn-6MEDh9X-Ua0=
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w256571151_tkdHZ0b2tlbnN0YXJ0dGltZT0xNzE4MjUwNzIxJnR2dG9rZW5lbmR0aW1lPTE3MTgyNTI1MjEmdHZ0b2tlbmhhc2g9V0pZQTVLcGZKSjdLVGppQUtaQlpPRW1BOEw1a3BjVUptNEdWUnRKVjBvQT0=.m3u8
 
 #EXTINF:-124 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru (Alt) | SD
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -378,7 +378,7 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-126 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ATV_HD_2014.svg/revision/latest/scale-to-width-down/279?cb=20210519153124&path-prefix=es" group-title="PERU", ATV |HD
-https://alba-pe-atv-atv.stream.mediatiquestream.com/720p.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/LOGO-CVP_COLORES-2.png" group-title="PERU", Cablevision TV Peru | HD
 https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
@@ -621,7 +621,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w3
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
 #EXTINF:-207 tvg-name="TOP Latino" tvg-logo="https://i.imgur.com/QMt8xxw.png" group-title="MEXICO",TOP Latino
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8?tvtokenstarttime=1718237535&tvtokenendtime=1718239335&tvtokenhash=w2Lz-TPD_Ene5aXY9QjIDLurO8152Nn-6MEDh9X-Ua0=
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w256571151_tkdHZ0b2tlbnN0YXJ0dGltZT0xNzE4MjUwNzIxJnR2dG9rZW5lbmR0aW1lPTE3MTgyNTI1MjEmdHZ0b2tlbmhhc2g9V0pZQTVLcGZKSjdLVGppQUtaQlpPRW1BOEw1a3BjVUptNEdWUnRKVjBvQT0=.m3u8
 
 #EXTINF:-208 tvg-name="Teleritmo" tvg-logo="https://i.imgur.com/jkPslQI.png" group-title="MUSICA",Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -1242,7 +1242,7 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_5.
 https://d3mhf0ikztdylu.cloudfront.net/out/v1/9209160a18004ef1b6760d694acb9af8/index.m3u8 
 
 #EXTINF:-414 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lc.cx/yo9sr-", MUSIC TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 #EXTINF:-415 tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="ECUADOR" ,ORBITA
 https://ssh101-fl.bozztv.com/ssh101/KIOCApP/playlist.m3u8
@@ -1276,7 +1276,6 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
 #EXTINF:-425 tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="MEXICO", ULTRA PUEBLA
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
-
 
 #EXTINF:-426 tvg-logo="https://i.ibb.co/ySmPcJq/Captura-de-pantalla-2023-04-01-183907.png" group-title="NOVELAS", NOvelas romanticas
 https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u8
@@ -1524,7 +1523,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
-http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
@@ -1545,34 +1544,34 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", 7.4 | Congreso TV
-http://bantel.iptvperu.tv:1935/astra/CanalDelCongreso/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/canaldelcongreso.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="PERU", 8 | Conectad2 Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | Canal de televisión británico
-http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/ 56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | Cuatriciclo +
-http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/transcoderip/atvnoticiasmovil_t6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/ 2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
-http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATVSUR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/ logo278.jpg" group-title="PERU", 10 | TVPBO
 http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", 11 | viva tv
-http://bantel.iptvperu.tv:1935/transcoder_t1/vivatv_t1/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/vivaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/ USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | TV USMP
-http://bantel.iptvperu.tv:1935/transcoder_t6/usmpmovil_t6.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/USMP/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | USMP TV Música" tvg-name="PE | USMP TV Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/ USMP_TV_M%C3%BAsica.png" group-title="MUSICA", 12.2 | USMP TV Música
-http://bantel.iptvperu.tv:1935/transcoder_t6/usmptvmusicamovil_t6.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/USMPmusica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f- mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Televisión Global
-http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="PERU", 14 | Vinilos TV || Moyobamba
 https://live.obslivestream.com/controversiatv/index.m3u8
@@ -7837,3 +7836,5 @@ http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/152908.ts
 
 #EXTINF:-4 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/384111.m3u8
+
+
