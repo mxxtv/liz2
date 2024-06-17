@@ -2647,8 +2647,6 @@ https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Más 2" tvg-name="CL | TV Más 2" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/tvmas2-1920-1080-300x169.jpg" group-title="CHILE", 717 | TV Más 2 || CHILE
 https://marine2.miplay.cl/tateti/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Spectrum Channel" tvg-name="CL | Spectrum Channel" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/spectrum-1920X1080-300x169.png" group-title="ESTILOS DE VIDA", 718 | Spectrum Channel
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="CL | Tevex" tvg-name="CL | Tevex" tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="CHILE", 719 | Tevex || CHILE
 https://marine2.miplay.cl/tevex/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Senado" tvg-name="CL | TV Senado" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png" group-title="CHILE", 720 | TV Senado || CHILE
@@ -2703,10 +2701,6 @@ https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
 https://marine2.miplay.cl/girovisual/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | TVP" tvg-name="AR | TVP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", 745 | Televisión Pública || ARGENTINA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
-#EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/150px-Telefe_%28nuevo_logo%29.png" group-title="INTERNACIONALES", En prueba | Telefe || ARGENTINA
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1852347636&_cdn_timestamp=1711807622&_cdn_token=e258627fd222ea9b8201abf0dc08a4ef8891bba1
-#EXTINF:-1 tvg-id="AR | El Trece Internacional" tvg-name="AR | El Trece Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png" group-title="INTERNACIONALES", 746 | El Trece Internacional || ARGENTINA
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=1849157253&_cdn_timestamp=1711807627&_cdn_token=ec16e0eef1d42b7e312cc87ee81fcf3446544721
 #EXTINF:-1 tvg-id="AR | Ciudad Mágica TV" tvg-name="AR | Ciudad Mágica TV" tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="ARGENTINA", 747 | Ciudad Mágica TV || ARGENTINA
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-id="AR | Argentinísima Satelital" tvg-name="AR | Argentinísima Satelital" tvg-logo="https://i.imgur.com/bs4truU.png" group-title="ARGENTINA", 748 | Argentinísima Satelital || ARGENTINA
@@ -2809,8 +2803,8 @@ https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8
 #EXTINF:-1 tvg-id="CR | Voice Over TV" tvg-name="CR | Voice Over TV" tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/07/Logo-Varo-Version.png" group-title="COSTA RICA", 797 | Voice Over TV || COSTA RICA
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:-1 tvg-id="CR | Colosal TV" tvg-name="CR | Colosal TV" tvg-logo="https://pbs.twimg.com/media/FcB6HSyXwAAsFGg?format=png&name=360x360" group-title="MUSICA Y REALITIES", 798 | Colosal TV
-https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 tvg-id="CR | Colosal TV" tvg-name="CR | Colosal TV" tvg-logo="https://pbs.twimg.com/media/FcB6HSyXwAAsFGg?format=png&name=360x360" group-title="MUSICA", 798 | Colosal TV
+https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 2" tvg-name="NI | Canal 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCAAsfEEW97LI5peV0NGAtlIL5VfhnX-schTiTTLig0Oemf0HpCUT4kF6KA1tAKx2ev8&usqp=CAU" group-title="NICARAGUA", 799 | Canal 2 Televicentro || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal02_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 4" tvg-name="NI | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png/150px-Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png" group-title="NICARAGUA", 800 | Canal 4 Multinoticias || NICARAGUA
@@ -3323,70 +3317,6 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="PUERTO RICO", 1050 | Telemundo || PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-#EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 1051 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
-https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
-#EXTINF:-1 tvg-id="USA | Tribuna TV" tvg-name="USA | Tribuna TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/4c/f9/9f4cf9e4-8bc2-5ddd-e8be-057e688065e5/mzl.ztmkjvqb.jpg/230x0w.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 1052 | Tribuna TV || ESTADOS UNIDOS DE AMÉRICA
-https://tv.canaanverver.com:8081/live01/index.m3u8
-#EXTINF:-1 tvg-id="USA | Mun2 TV" tvg-name="USA | Mun2 TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2122-294x165-FFFFFF.jpg" group-title="ESTADOS UNIDOS DE AMÉRICA", 1053 | Mun2 TV || ESTADOS UNIDOS DE AMÉRICA
-https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
-#EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1054 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
-https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-id="USA | El Venezolano TV" tvg-name="USA | El Venezolano TV" tvg-logo="https://evtv.online/wp-content/uploads/2023/05/cropped-evtv-WebGuidelines-1-300x183-1.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 1055 | El Venezolano TV || ESTADOS UNIDOS DE AMÉRICA
-https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Visión Global TV" tvg-name="USA | Visión Global TV" tvg-logo="https://pbs.twimg.com/profile_images/1271993632573267969/iebucZUM_400x400.jpg" group-title="ESTADOS UNIDOS DE AMÉRICA", 1056 | Visión Global TV || ESTADOS UNIDOS DE AMÉRICA
-https://stream.visionglobaltv.net:1936/visionglobal/visionglobal/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | TV Hispanic" tvg-name="USA | TV Hispanic" tvg-logo="https://yt3.googleusercontent.com/bHSIL9B_UGJoqzQV5aRgQBXTIqOaxhFc1CjjfLVundh5Jt8BC_VZU1yjukEemoZonaNz-tbDBQ=s900-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", 1057 | TV Hispanic || ESTADOS UNIDOS DE AMÉRICA
-https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
-#EXTINF:-1 tvg-id="USA | Miami TV" tvg-name="USA | Miami TV" tvg-logo="https://miamitv.com/images/logo-miamitv.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1058 | Miami TV || ESTADOS UNIDOS DE AMÉRICA
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Telemundo Florida" tvg-name="USA | Telemundo Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/600x337.webp?type=channelTile" group-title="ESTADOS UNIDOS DE AMÉRICA", 1059 | Telemundo Florida || ESTADOS UNIDOS DE AMÉRICA
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1060 | GolTV || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Cine Mexicano" tvg-name="USA | Cine Mexicano" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1061 | Cine Mexicano || ESTADOS UNIDOS DE AMÉRICA
-http://181.78.105.146:2000/play/a096/index.m3u8
-#EXTINF:-1 tvg-id="USA | Galavisión" tvg-name="USA | Galavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1062 | Galavisión || ESTADOS UNIDOS DE AMÉRICA
-http://167.114.156.136:25461/INFINITV/ZX89NM22/174
-#EXTINF:-1 tvg-id="USA | Universo" tvg-name="USA | Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/180px-Universo_2017.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1063 | Universo || ESTADOS UNIDOS DE AMÉRICA
-http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | SEC Network" tvg-name="USA | SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/200px-SEC_Network_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1064 | SEC Network || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | ACC Network" tvg-name="USA | ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/250px-ACC_Network_ESPN_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1065 | ACC Network || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | FXX" tvg-name="USA | FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/130px-FXX_Logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1066 | FXX || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery Family" tvg-name="USA | Discovery Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/1200px-Discovery_Familia_logo_%283%29.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1067 | Discovery Family || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch526/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Motor Trend" tvg-name="USA | Motor Trend" tvg-logo="https://play-lh.googleusercontent.com/wI6yGzaL1N6UGpSKm8IjTODFZdqjS4YAYlkzwVEXQ-m4XBg6NbzRBpQ-tGye18p-BBY=w240-h480-rw" group-title="ESTADOS UNIDOS DE AMÉRICA", 1068 | Motor Trend || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch528/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Game Show Network" tvg-name="USA | Game Show Network" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/Game_Show_Logo_Xmas.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1069 | Game Show Network || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch535/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | MeTV" tvg-name="USA | MeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/200px-MeTV_Logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1070 | MeTV || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch557/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Travel Channel" tvg-name="USA | Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/150px-2018_Travel_Channel_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1071 | Travel Channel || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch558/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Oxygen True Crime" tvg-name="USA | Oxygen True Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1072 | Oxygen True Crime || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Bounce TV" tvg-name="USA | Bounce TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/250px-Bounce_TV_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1073 | Bounce TV || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch561/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Grit TV" tvg-name="USA | Grit TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Grit_TV_Network_Logo.gif/225px-Grit_TV_Network_Logo.gif" group-title="ESTADOS UNIDOS DE AMÉRICA", 1074 | Grit TV || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch563/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | AXS TV" tvg-name="USA | AXS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/250px-AXS_TV_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1075 | AXS TV || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch564/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Oprah Winfrey Network TV" tvg-name="USA | Oprah Winfrey Network TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/170px-OWN_2011_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1076 | Oprah Winfrey Network TV || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch566/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q" group-title="ESTADOS UNIDOS DE AMÉRICA", 1077 | Lifetime || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Big Ten Network" tvg-name="USA | Big Ten Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/240px-Big_Ten_Network_Logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1078 | Big Ten Network || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch572/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Cooking Channel" tvg-name="USA | Cooking Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/200px-Cooking_Channel.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1079 | Cooking Channel || ESTADOS UNIDOS DE AMÉRICA
-http://livex.pop-app.live/s4n/poplive/ch521/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | CNBC" tvg-name="USA | CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/125px-CNBC_2023.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1080 | CNBC || ESTADOS UNIDOS DE AMÉRICA
-http://168.227.22.18:1935/live/mobile-098/playlist.m3u8
-#EXTINF:-1 tvg-id="CA | Fight Network" tvg-name="CA | Fight Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/200px-Fight_network_logo.svg.png" group-title="CANADÁ", 1081 | Fight Network || CANADÁ
-http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
-#EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/150px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONALES", 1082 | TVE || ESPAÑA
-http://45.5.117.182:8000/play/a0k2/index.m3u8
 #EXTINF:-1 tvg-id="ES | Star TVE HD" tvg-name="ES | Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="ESPAÑA", 1083 | Star TVE HD || ESPAÑA
 http://45.5.117.182:8000/play/a0fu/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 1084 | La 1 || ESPAÑA
@@ -3466,9 +3396,6 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/man
 #EXTINF:-1 tvg-id="ES | Escapa TV" tvg-name="ES | Escapa TV" tvg-logo="https://empresas.adamo.es/hubfs/ASJ/TV/Hubdb/Estilo%20de%20vida/escapatv.png" group-title="ESPAÑA", 1121 | Escapa TV || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:42_HD.smil/manifest.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/uZdVSoW.png" tvg-id="Canal5.mx",Canal 5 (1080p)
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
@@ -3493,15 +3420,6 @@ http://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MMhSmDK.png" tvg-id="DePeliculaPlus.mx"group-title="MEXICO",De Película  (576p)
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/143.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMhSmDK.png" tvg-id="DePeliculaLatinAmerica.mx"group-title="CINE Y SERIES",De Película (576p)
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-id="DePeliculaPlus.mx"group-title="CINE Y SERIES",De Película Plus 
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-id="DePeliculaPlus.mx"group-title="CINE Y SERIES",De Película Plus 
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/143.m3u8
-
 #EXTINF:-1 tvg-logo="https://lc.cx/71oc1G" tvg-id="DistritoComedia.mx"group-title="MEXICO",Distrito Comedia (576p)
 http://181.78.105.146:2000/play/a08t/index.m3u8
 
@@ -3516,30 +3434,6 @@ https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExpresaTV.mx",Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" group-title="MEXICO",Golden Edge Panregional (576p)
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx"group-title="MEXICO",Golden Multiplex (576p)
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenPlus.mx"group-title="MEXICO",Golden Plus (576p)
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenPremier.mx"group-title="MEXICO",Golden Premier (576p)
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" group-title="CINE Y SERIES",Golden Edge Panregional (576p)
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx"group-title="CINE Y SERIES",Golden Multiplex (576p)
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenPlus.mx"group-title="CINE Y SERIES",Golden Plus (576p)
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenPremier.mx"group-title="CINE Y SERIES",Golden Premier (576p)
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="LoboTV.mx",Lobo TV (720p)
@@ -3607,12 +3501,6 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 tvg-id="TeleFormula.mx",TeleFórmula (720p) 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-
-#EXTINF:-1 tvg-id="TeleHit.mx"group-title="MUSICA",Telehit (576p)
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TelehitMusica.mx"group-title="MUSICA",Telehit Música (576p)
-https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelemarCampeche.mx",Telemar Campeche (720p) [No 24/7]
 https://5e50264bd6766.streamlock.net/telemarcampeche/videotelemarcampeche/playlist.m3u8
@@ -4706,14 +4594,26 @@ http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="SERVIDOR 2", La Rosa de Guadalupe ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
 
+#EXTINF:-1 grupo- title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",Dune: Parte dos (2024) CAM 
+https://grrfff66me7t .objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Duna-%20Parte%20dos%20online%20HD%20-%20Cuevana %202.mp4 
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9u6HEtZJdZDjPGGJq6YEuhPnoan .jpg",Imaginario: Juguete diabólico (2024) 
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer %20Imaginario-%20juguete%20diab%C3%B3lico%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/urFWBbNkMkiqKhEDLogiWzc54O4.jpg",El astronauta (2024) 
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci .com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20El%20astronauta%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh. jpg",Madame Web (2024) CAM 
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Madame %20Web%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mKWalirPreEdCKDJjc5TKeOP2xi.jpg",Bob Marley: la leyenda (2024) CAM 
+https: //grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Bob%20Marley-%20La%20leyenda%20online%20HD %20-%20Cuevana%202.mp4 
+
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cIzk6GhxEZuweekGFXWEoAyuaMX.jpg",La primera profecía (2024) CAM 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20La%20primera%20profec%C3%ADa%20online%20HD%20-%20Cuevana%202.mp4
 
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cO6x9pTZHIBXbPLcmFSCXAI6Ky3.jpg",El Arca de Noé (2024) 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Arca%20de%20No%C3%A9%20online%20HD%20-%20Cuevana%202.mp4
-
-#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cIzk6GhxEZuweekGFXWEoAyuaMX.jpg",La primera profecía (2024) CAM 
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20La%20primera%20profec%C3%ADa%20online%20HD%20-%20Cuevana%202.mp4
 
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg",Godzilla y Kong: El nuevo imperio (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Godzilla%20y%20Kong-%20El%20nuevo%20imperio%20online%20HD%20-%20Cuevana%202.mp4
@@ -4766,14 +4666,8 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_osi3zi
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/03/17/13/02/022315.jpg" type="movie" group-title="PELICULAS",Zapatero su Zapatos | (HD)
 https://ia802802.us.archive.org/11/items/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
 
-#EXTINF:-1 tvg-id="Zona 414.eu" tvg-name="Zona 414 (HD)" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/tTuduA578eoIwwztWsLJJYZr6E5.jpg" type="movie" group-title="PELICULAS",Zona 414 | (HD)
-https://wvpmla.sn.files.1drv.com/y4m_w_wuU9SUT7qhhBz_AAm_QJD-nyACppTmrheR3WnzMnmxfaoL58zkz7qRzoliBaSodtemhdQFcZangmAld9QQuiBZvfzDCewFFyB_6CWJaoB1TIHUkjF2x_rAACVbHwzuRlmGI_MQM3JHs3yCMdIsk3HMwTKarMJT6XZQDiqFNEmU-TEiHG1b3CNkuQVKPPRXEJaXS3ZqlQc-8A6BEBhYg?
-
 #EXTINF:-1 tvg-id="Zunbecia.eu" tvg-name="Zunbecia (HD)" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/27d69bceca3d9008c136834fb45f7a179acd6a4bc5d5d6092cf05c003438789f._RI_V_TTW_.jpg" group-title="PELICULAS",Zunbecia | HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9n1wt2hq/format/applehttp/protocol/https/flavorIds/1_6mdbd9qx,1_y4ttoqk1,1_zunkew17,1_szuam83z,1_yz7mc9kp,1_hjkkwivn,1_j3rp0818/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672067281&amp;id=621&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=PNyFyEhHLntkRdW1wnhmJgLSYZwOABCi%2BxzGVvnMY6w%3D&amp;playSessionId=b5870f77-a06a-fae6-f9cd-8cb140eddc1d:a67ab137-8d64-6004-fef8-a8c687369ded&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3phbWJlemlh&amp;clientTag=html5:v7.56
-
-#EXTINF:-1 tvg-id="Gato con Botas.eu" tvg-name="Gato con Botas (HD)" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/fe190e33b1a80b175f28715aac47fcddbc10c2ebbff1cc5c9d7b5d5bf1b3a472._RI_V_TTW_.jpg" type="movie" group-title="PELICULAS" ,Gato con Botas movies| HD
-https://xppmla.sn.files.1drv.com/y4mBn_0yrZP8uTP9A1Nq7uhVH3pY3Iua3dptTu8zsV88hvvbiTBW1RXRJSB6K61wIjm4Nb4-usz0aG9rNeHNmgng4bRwp5gWBwmlxLmmECq4gvdnUxHjo4It1-NyNPWLb_Gtx0qxkswx-tFYpiSzLltD9gtB4YtzLFeS3-MB05h_gpG-DvMNZ7EnEXZ_f1_MAjgKDSm4crC9_90tcr0pdmXSQ?
 
 #EXTINF:-1  type="movie" group-title="PELICULAS"tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/6DB508D11D0235D7B92C60495DE9AFB7E0EE7C16CDF0464AFC68F65164AD193A/scale?width=506&aspectRatio=2.00&format=jpeg",El poder del talismán (2003) 
 http://vod.tuxchannel.mx/peliculas/720/the%20medallion.mkv 
@@ -8673,4 +8567,6 @@ http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/152908.ts
 
 #EXTINF:-4 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/384111.m3u8
+
+
 
