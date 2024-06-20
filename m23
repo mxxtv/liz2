@@ -24,10 +24,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
-https://live-b.cf.dmcdn.net/sec2(XOUwX9nEsDiv_DyRkquQ4dkX4WqLZKvvWd6alvThppicfAxno9LMQHzsRubVKgYValnWsmC3_o4dmA5saEPFKqx7isfQTJEWS-5nw03Xu_Q)/dm/3/x7wijay/d/live-2.m3u8
+https://live-b.cf.dmcdn.net/sec2(Jyjn_pvtG3pKl6W3MHNwBkucMZV1M9thrOOSFKJpp02vFdf_ZCAP1oiXgGxD0Zf-plokXHy4wp4EBqPViKjV7rA2sJmDlCU0vVNTvqSb5r0)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
-https://live-b.cf.dmcdn.net/sec2(obxS5Eymg96A1MCqbFdM_gciU8TLyah8xI-RrcK8Yb1vSKpUz8EUYdM_TftclgeOqXo9mlTEF9MIztw0eRun12kzKtI0I6Xlfdda8N7uBCY)/dm/3/x80ac48/d/live-3.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(rK8E0nAhA0JXESu7C_uuZKVKZZz4BhbPTuw26a-7OJZ4AiJcWCp-x774MU63FhkUVYRaRXa3TypAtMwX2I7hK8Gjovfc5vtgA7eslGhCcA4)/dm/3/x80ac48/d/live-2.m3u8#cell=lcfb
 
 #EXTINF:-11 tvg-logo="https://lc.cx/6p7IqW" group-title="ECUADOR", RTU TV | SD
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
@@ -1088,8 +1088,8 @@ https://stmv1.voxplayer.com.br/vidieg12/vidieg12/playlist.m3u8
 #EXTINF:-362 tvg-logo="https://i.imgur.com/IvZtqyz.png" group-title="ECUADOR" ,RADIO BONITA
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
 
-#EXTINF:-363 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="ECUADOR" , BACAN TEO
-https://cloudvideo.servers10.com:8081/8064/index.m3u8
+#EXTINF:-363 tvg-logo="https://www.netflix.com/tudum/top10/images/top10.png" group-title="ECUADOR" , PELIS TOP
+https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/25c9e6b6-7cfd-4164-b995-e05ed787c68e/2.m3u8
 
 #EXTINF:-364 tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="ECUADOR" , MarcaTV
 https://eu1.servers10.com:8081/8030/index.m3u8
@@ -1517,7 +1517,7 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
-https://live-c.cf.dmcdn.net/sec2(173FKxp5nTk_mmKwW8O1hl4hKZ0flBHFinzxdlB9kWju3nalTjiDM5BbmtIdBFVezA6AdqvP5hZeifl3iAwUgkEVKzzrZO4V_UnVsSGv0kY)/dm/3/x7x4dgx/s/live-1.m3u8
+https://live-c.cf.dmcdn.net/sec2(uYj2DhRpVJdVj77_LHMtiLJJQRcx22YuLIf-buyBBZcOQzY8RTiOEEhjUo_Bxyp_aPl18mKADVyXnlNfeqFfqXlWqjHAtQD5avp25fqOn0c)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Televisión
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
