@@ -8528,11 +8528,11 @@ http://161.132.108.74:50001/play/a03q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="DEPORTES", DIRECTV SPORTS
 http://177.53.153.20:8001/play/a0em/index.m3u8
 
-#EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png" ,ORLANDO VS CARACOL CO
-http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png" ,CARACOL CO
+http://45.179.164.30:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png",TV 5 MX
-http://177.53.153.20:8001/play/a0c4/index.m3u8
+http://181.78.105.146:2000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="HN | TV Azteca Honduras" tvg-name="HN | TV Azteca Honduras" tvg-logo="https://th.bing.com/th/id/OIP.JbKktNCuWzY-7oOkoC58uAAAAA?rs=1&pid=ImgDetMain" group-title="EVENTO COPA AMERICA", 839 | TV Azteca Honduras || HONDURAS
 http://170.82.37.21:8000/play/a00e/index.m3u8
