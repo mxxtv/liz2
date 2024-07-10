@@ -24,7 +24,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
-https://live-b.cf.dmcdn.net/sec2(gQeTcOS6bMmuUiLGWxgnZV-aH3wU5TikWQFSFm26nlhRhT9ynO_G9AZ8mHTdnZYzGjmcr3HZbrlqKVLQF3dWArNgsTIsZ8q3RZRvpGdnyCg)/dm/3/x7wijay/d/live-2.m3u8
+https://live-c.cf.dmcdn.net/sec2(1AleLQrKY1TOND2HFMHtyRav0Vfy19TwkyPXFqMBKDKYw36MvF8ccG7dF9UtFs1o9tf9zdHW9ryo5LUH9cK2klWCU1OVOfmRkw4OBRmeKw8)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 http://45.228.234.167:8000/play/a03r/index.m3u8
@@ -4537,6 +4537,9 @@ http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="SERVIDOR 2", La Rosa de Guadalupe ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
 
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",Bad Boys: Hasta la muerte (2024) CAM 
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjun24%2FVer%20Bad%20Boys-%20Hasta%20la%20muerte%20online%20HD%20-%20Cuevana%202.mp4
+
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://images.justwatch.com/poster/306310749/s718/untitled-pixar-animation-project-3.jpg",Elementos (2023) 
 http://archive.org/download/Peliculas-wii/Elementos.mp4
 
@@ -8517,7 +8520,7 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 group-title="EVENTO COPA AMERICA"tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png", CANAL 5 DISH
 http://45.228.234.167:8000/play/a0fl/index.m3u8
 
-#EXTINF:-1 tvg-id="1567" tvg-name="Ecuavisa" tvg-logo =" https://cdn.m3u.cl/logo/1567_Ecuavisa.png ", group-title="ECUADOR", Ecuavisa | CE 
+#EXTINF:-1 tvg-id="1567" tvg-name="Ecuavisa" tvg-logo =" https://cdn.m3u.cl/logo/1567_Ecuavisa.png "group-title="ECUADOR", Ecuavisa | CE 
 https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 
 #EXTINF:-1 group-title="EVENTO COPA AMERICA", AZTECA 7 HD 
